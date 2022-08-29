@@ -1,0 +1,694 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1658568171838,6859,Homepage,200,OK,HomePAge 1-17,text,true,,359690,236,20,20,https://www.flipkart.com/,151,0,72
+1658568171838,151,Homepage-0,301,Moved Permanently,HomePAge 1-17,text,true,,347,118,20,20,http://www.flipkart.com/,151,0,72
+1658568171990,6707,Homepage-1,200,OK,HomePAge 1-17,text,true,,359343,118,20,20,https://www.flipkart.com/,1175,0,561
+1658568171234,8344,Homepage,200,OK,HomePAge 1-5,text,true,,359852,236,20,20,https://www.flipkart.com/,263,0,144
+1658568171234,267,Homepage-0,301,Moved Permanently,HomePAge 1-5,text,true,,347,118,20,20,http://www.flipkart.com/,263,0,144
+1658568171504,8074,Homepage-1,200,OK,HomePAge 1-5,text,true,,359505,118,20,20,https://www.flipkart.com/,1652,0,1113
+1658568171803,9147,Homepage,200,OK,HomePAge 1-16,text,true,,366016,236,20,20,https://www.flipkart.com/,179,0,95
+1658568171803,180,Homepage-0,301,Moved Permanently,HomePAge 1-16,text,true,,347,118,20,20,http://www.flipkart.com/,179,0,95
+1658568171984,8966,Homepage-1,200,OK,HomePAge 1-16,text,true,,365669,118,20,20,https://www.flipkart.com/,1116,0,567
+1658568178700,2364,Cart,200,OK,HomePAge 1-17,text,true,,110741,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1591,0,0
+1658568178700,1591,Cart-0,301,Moved Permanently,HomePAge 1-17,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1591,0,0
+1658568180292,772,Cart-1,200,OK,HomePAge 1-17,text,true,,110349,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,532,0,0
+1658568171533,9584,Homepage,200,OK,HomePAge 1-11,text,true,,365931,236,20,20,https://www.flipkart.com/,204,0,105
+1658568171533,204,Homepage-0,301,Moved Permanently,HomePAge 1-11,text,true,,347,118,20,20,http://www.flipkart.com/,204,0,105
+1658568171738,9379,Homepage-1,200,OK,HomePAge 1-11,text,true,,365584,118,20,20,https://www.flipkart.com/,1573,0,921
+1658568171685,9695,Homepage,200,OK,HomePAge 1-14,text,true,,365455,236,20,20,https://www.flipkart.com/,144,0,59
+1658568171685,144,Homepage-0,301,Moved Permanently,HomePAge 1-14,text,true,,347,118,20,20,http://www.flipkart.com/,144,0,59
+1658568171830,9550,Homepage-1,200,OK,HomePAge 1-14,text,true,,365108,118,20,20,https://www.flipkart.com/,1543,0,883
+1658568171935,9556,Homepage,200,OK,HomePAge 1-19,text,true,,366901,236,20,20,https://www.flipkart.com/,135,0,61
+1658568171935,135,Homepage-0,301,Moved Permanently,HomePAge 1-19,text,true,,347,118,20,20,http://www.flipkart.com/,135,0,61
+1658568172071,9420,Homepage-1,200,OK,HomePAge 1-19,text,true,,366554,118,20,20,https://www.flipkart.com/,2042,0,728
+1658568179578,1943,Cart,200,OK,HomePAge 1-5,text,true,,113861,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1097,0,0
+1658568179578,1097,Cart-0,301,Moved Permanently,HomePAge 1-5,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1097,0,0
+1658568180675,846,Cart-1,200,OK,HomePAge 1-5,text,true,,113469,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,589,0,0
+1658568171175,10371,Homepage,200,OK,HomePAge 1-3,text,true,,361868,236,20,20,https://www.flipkart.com/,322,0,204
+1658568171175,326,Homepage-0,301,Moved Permanently,HomePAge 1-3,text,true,,347,118,20,20,http://www.flipkart.com/,322,0,204
+1658568171504,10042,Homepage-1,200,OK,HomePAge 1-3,text,true,,361521,118,20,20,https://www.flipkart.com/,2200,0,1113
+1658568171883,10147,Homepage,200,OK,HomePAge 1-18,text,true,,369144,236,20,20,https://www.flipkart.com/,183,0,96
+1658568171883,183,Homepage-0,301,Moved Permanently,HomePAge 1-18,text,true,,347,118,20,20,http://www.flipkart.com/,183,0,96
+1658568172067,9963,Homepage-1,200,OK,HomePAge 1-18,text,true,,368797,118,20,20,https://www.flipkart.com/,1491,0,706
+1658568171482,10656,Homepage,200,OK,HomePAge 1-10,text,true,,365943,236,20,20,https://www.flipkart.com/,214,0,68
+1658568171482,214,Homepage-0,301,Moved Permanently,HomePAge 1-10,text,true,,347,118,20,20,http://www.flipkart.com/,214,0,68
+1658568171697,10441,Homepage-1,200,OK,HomePAge 1-10,text,true,,365596,118,20,20,https://www.flipkart.com/,1755,0,1035
+1658568171633,10961,Homepage,200,OK,HomePAge 1-13,text,true,,369854,236,20,20,https://www.flipkart.com/,178,0,105
+1658568171633,178,Homepage-0,301,Moved Permanently,HomePAge 1-13,text,true,,347,118,20,20,http://www.flipkart.com/,178,0,105
+1658568171812,10782,Homepage-1,200,OK,HomePAge 1-13,text,true,,369507,118,20,20,https://www.flipkart.com/,1624,0,799
+1658568171174,11543,Homepage,200,OK,HomePAge 1-2,text,true,,367187,236,20,20,https://www.flipkart.com/,322,0,205
+1658568171174,326,Homepage-0,301,Moved Permanently,HomePAge 1-2,text,true,,347,118,20,20,http://www.flipkart.com/,322,0,205
+1658568171504,11213,Homepage-1,200,OK,HomePAge 1-2,text,true,,366840,118,20,20,https://www.flipkart.com/,2714,0,1131
+1658568171284,11792,Homepage,200,OK,HomePAge 1-6,text,true,,370527,236,20,20,https://www.flipkart.com/,246,0,102
+1658568171284,246,Homepage-0,301,Moved Permanently,HomePAge 1-6,text,true,,347,118,20,20,http://www.flipkart.com/,246,0,102
+1658568171531,11545,Homepage-1,200,OK,HomePAge 1-6,text,true,,370180,118,20,20,https://www.flipkart.com/,2104,0,1092
+1658568171174,11959,Homepage,200,OK,HomePAge 1-1,text,true,,360607,236,20,20,https://www.flipkart.com/,327,0,204
+1658568171174,328,Homepage-0,301,Moved Permanently,HomePAge 1-1,text,true,,347,118,20,20,http://www.flipkart.com/,327,0,204
+1658568171504,11629,Homepage-1,200,OK,HomePAge 1-1,text,true,,360260,118,20,20,https://www.flipkart.com/,1699,0,1052
+1658568171732,11470,Homepage,200,OK,HomePAge 1-15,text,true,,358490,236,20,20,https://www.flipkart.com/,171,0,86
+1658568171732,171,Homepage-0,301,Moved Permanently,HomePAge 1-15,text,true,,347,118,20,20,http://www.flipkart.com/,171,0,86
+1658568171904,11298,Homepage-1,200,OK,HomePAge 1-15,text,true,,358143,118,20,20,https://www.flipkart.com/,1754,0,841
+1658568171584,12080,Homepage,200,OK,HomePAge 1-12,text,true,,358652,236,20,20,https://www.flipkart.com/,204,0,114
+1658568171584,204,Homepage-0,301,Moved Permanently,HomePAge 1-12,text,true,,347,118,20,20,http://www.flipkart.com/,204,0,114
+1658568171789,11875,Homepage-1,200,OK,HomePAge 1-12,text,true,,358305,118,20,20,https://www.flipkart.com/,1961,0,794
+1658568180952,2985,Cart,200,OK,HomePAge 1-16,text,true,,111741,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,920,0,0
+1658568180952,920,Cart-0,301,Moved Permanently,HomePAge 1-16,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,920,0,0
+1658568181871,2066,Cart-1,200,OK,HomePAge 1-16,text,true,,111349,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1500,0,0
+1658568181118,3116,Cart,200,OK,HomePAge 1-11,text,true,,113291,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,912,0,0
+1658568181118,912,Cart-0,301,Moved Permanently,HomePAge 1-11,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,912,0,0
+1658568182029,2205,Cart-1,200,OK,HomePAge 1-11,text,true,,112899,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1187,0,0
+1658568181380,3049,Cart,200,OK,HomePAge 1-14,text,true,,115910,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1213,0,0
+1658568181380,1213,Cart-0,301,Moved Permanently,HomePAge 1-14,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1213,0,0
+1658568182593,1836,Cart-1,200,OK,HomePAge 1-14,text,true,,115518,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1104,0,0
+1658568181546,3434,Cart,200,OK,HomePAge 1-3,text,true,,103457,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1198,0,0
+1658568181546,1199,Cart-0,301,Moved Permanently,HomePAge 1-3,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1198,0,0
+1658568182745,2235,Cart-1,200,OK,HomePAge 1-3,text,true,,103065,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1130,0,0
+1658568181491,4689,Cart,200,OK,HomePAge 1-19,text,true,,103710,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1146,0,0
+1658568181491,1146,Cart-0,301,Moved Permanently,HomePAge 1-19,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1146,0,0
+1658568182637,3543,Cart-1,200,OK,HomePAge 1-19,text,true,,103318,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1180,0,0
+1658568182029,4559,Cart,200,OK,HomePAge 1-18,text,true,,112867,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1027,0,0
+1658568182029,1027,Cart-0,301,Moved Permanently,HomePAge 1-18,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1027,0,0
+1658568183056,3532,Cart-1,200,OK,HomePAge 1-18,text,true,,112475,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,886,0,0
+1658568171333,15477,Homepage,200,OK,HomePAge 1-7,text,true,,358896,236,20,20,https://www.flipkart.com/,203,0,56
+1658568171333,203,Homepage-0,301,Moved Permanently,HomePAge 1-7,text,true,,347,118,20,20,http://www.flipkart.com/,203,0,56
+1658568171537,15273,Homepage-1,200,OK,HomePAge 1-7,text,true,,358549,118,20,20,https://www.flipkart.com/,3201,0,1074
+1658568182137,4880,Cart,200,OK,HomePAge 1-10,text,true,,111874,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,999,0,0
+1658568182137,999,Cart-0,301,Moved Permanently,HomePAge 1-10,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,999,0,0
+1658568183137,3880,Cart-1,200,OK,HomePAge 1-10,text,true,,111482,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1321,0,0
+1658568182593,4441,Cart,200,OK,HomePAge 1-13,text,true,,103342,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1015,0,0
+1658568182593,1015,Cart-0,301,Moved Permanently,HomePAge 1-13,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1015,0,0
+1658568183609,3425,Cart-1,200,OK,HomePAge 1-13,text,true,,102950,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1151,0,0
+1658568171185,16014,Homepage,200,OK,HomePAge 1-4,text,true,,359533,236,20,20,https://www.flipkart.com/,345,0,193
+1658568171185,345,Homepage-0,301,Moved Permanently,HomePAge 1-4,text,true,,347,118,20,20,http://www.flipkart.com/,345,0,193
+1658568171531,15668,Homepage-1,200,OK,HomePAge 1-4,text,true,,359186,118,20,20,https://www.flipkart.com/,2042,0,1098
+1658568182717,4513,Cart,200,OK,HomePAge 1-2,text,true,,103716,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,946,0,0
+1658568182717,946,Cart-0,301,Moved Permanently,HomePAge 1-2,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,946,0,0
+1658568183663,3567,Cart-1,200,OK,HomePAge 1-2,text,true,,103324,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1356,0,0
+1658568183664,3726,Cart,200,OK,HomePAge 1-12,text,true,,111013,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,972,0,0
+1658568183664,972,Cart-0,301,Moved Permanently,HomePAge 1-12,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,972,0,0
+1658568184637,2753,Cart-1,200,OK,HomePAge 1-12,text,true,,110621,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1979,0,0
+1658568183075,4463,Cart,200,OK,HomePAge 1-6,text,true,,112307,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,735,0,0
+1658568183075,735,Cart-0,301,Moved Permanently,HomePAge 1-6,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,735,0,0
+1658568183810,3728,Cart-1,200,OK,HomePAge 1-6,text,true,,111915,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1527,0,0
+1658568181522,6115,HTTP Request,200,OK,HomePAge 1-5,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2239,0,1433
+1658568181522,2239,HTTP Request-0,301,Moved Permanently,HomePAge 1-5,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2239,0,1433
+1658568183762,3875,HTTP Request-1,200,OK,HomePAge 1-5,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3875,0,3272
+1658568181065,6609,HTTP Request,200,OK,HomePAge 1-17,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2697,0,1897
+1658568181065,2697,HTTP Request-0,301,Moved Permanently,HomePAge 1-17,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2697,0,1897
+1658568183762,3912,HTTP Request-1,200,OK,HomePAge 1-17,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3912,0,3272
+1658568171435,16326,Homepage,200,OK,HomePAge 1-9,text,true,,365461,236,20,20,https://www.flipkart.com/,216,0,109
+1658568171435,217,Homepage-0,301,Moved Permanently,HomePAge 1-9,text,true,,347,118,20,20,http://www.flipkart.com/,216,0,109
+1658568171653,16108,Homepage-1,200,OK,HomePAge 1-9,text,true,,365114,118,20,20,https://www.flipkart.com/,1664,0,942
+1658568187200,1665,Cart,200,OK,HomePAge 1-4,text,true,,104516,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,475,0,0
+1658568187200,475,Cart-0,301,Moved Permanently,HomePAge 1-4,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,475,0,0
+1658568187675,1190,Cart-1,200,OK,HomePAge 1-4,text,true,,104124,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,776,0,0
+1658568171384,17667,Homepage,200,OK,HomePAge 1-8,text,true,,358570,236,20,20,https://www.flipkart.com/,246,0,154
+1658568171384,246,Homepage-0,301,Moved Permanently,HomePAge 1-8,text,true,,347,118,20,20,http://www.flipkart.com/,246,0,154
+1658568171631,17420,Homepage-1,200,OK,HomePAge 1-8,text,true,,358223,118,20,20,https://www.flipkart.com/,1599,0,940
+1658568183938,5288,HTTP Request,200,OK,HomePAge 1-16,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2839,0,1384
+1658568183938,2839,HTTP Request-0,301,Moved Permanently,HomePAge 1-16,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2839,0,1384
+1658568186779,2447,HTTP Request-1,200,OK,HomePAge 1-16,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2446,0,1582
+1658568184430,5021,HTTP Request,200,OK,HomePAge 1-14,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2587,0,1595
+1658568184430,2587,HTTP Request-0,301,Moved Permanently,HomePAge 1-14,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2587,0,1595
+1658568187019,2432,HTTP Request-1,200,OK,HomePAge 1-14,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2431,0,1401
+1658568186811,2704,Cart,200,OK,HomePAge 1-7,text,true,,113702,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,772,0,0
+1658568186811,772,Cart-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,772,0,0
+1658568187583,1932,Cart-1,200,OK,HomePAge 1-7,text,true,,113310,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,404,0,0
+1658568184981,4676,HTTP Request,200,OK,HomePAge 1-3,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2222,0,1468
+1658568184981,2222,HTTP Request-0,301,Moved Permanently,HomePAge 1-3,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2222,0,1468
+1658568187206,2451,HTTP Request-1,200,OK,HomePAge 1-3,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2450,0,1863
+1658568184236,5631,HTTP Request,200,OK,HomePAge 1-11,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3268,0,2461
+1658568184236,3268,HTTP Request-0,301,Moved Permanently,HomePAge 1-11,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3268,0,2461
+1658568187506,2361,HTTP Request-1,200,OK,HomePAge 1-11,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2361,0,1672
+1658568183202,6983,Cart,200,OK,HomePAge 1-15,text,true,,114210,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,734,0,0
+1658568183202,734,Cart-0,301,Moved Permanently,HomePAge 1-15,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,734,0,0
+1658568183937,6248,Cart-1,200,OK,HomePAge 1-15,text,true,,113818,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1760,0,0
+1658568187762,2774,Cart,200,OK,HomePAge 1-9,text,true,,113800,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,488,0,0
+1658568187762,488,Cart-0,301,Moved Permanently,HomePAge 1-9,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,488,0,0
+1658568188250,2286,Cart-1,200,OK,HomePAge 1-9,text,true,,113408,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1014,0,0
+1658568186591,4000,HTTP Request,200,OK,HomePAge 1-18,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1100,0,679
+1658568186591,1100,HTTP Request-0,301,Moved Permanently,HomePAge 1-18,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1100,0,679
+1658568187692,2899,HTTP Request-1,200,OK,HomePAge 1-18,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2899,0,2125
+1658568186183,4442,HTTP Request,200,OK,HomePAge 1-19,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1443,0,846
+1658568186183,1443,HTTP Request-0,301,Moved Permanently,HomePAge 1-19,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1443,0,846
+1658568187627,2998,HTTP Request-1,200,OK,HomePAge 1-19,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2998,0,1789
+1658568187019,3964,HTTP Request,200,OK,HomePAge 1-10,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,885,0,613
+1658568187019,885,HTTP Request-0,301,Moved Permanently,HomePAge 1-10,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,885,0,613
+1658568187905,3078,HTTP Request-1,200,OK,HomePAge 1-10,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3077,0,2191
+1658568187036,4312,HTTP Request,200,OK,HomePAge 1-13,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1145,0,608
+1658568187036,1145,HTTP Request-0,301,Moved Permanently,HomePAge 1-13,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1145,0,608
+1658568188181,3167,HTTP Request-1,200,OK,HomePAge 1-13,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3167,0,2061
+1658568187232,4190,HTTP Request,200,OK,HomePAge 1-2,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,989,0,466
+1658568187232,989,HTTP Request-0,301,Moved Permanently,HomePAge 1-2,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,989,0,466
+1658568188222,3200,HTTP Request-1,200,OK,HomePAge 1-2,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3200,0,2069
+1658568187392,4288,HTTP Request,200,OK,HomePAge 1-12,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,835,0,311
+1658568187392,835,HTTP Request-0,301,Moved Permanently,HomePAge 1-12,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,835,0,311
+1658568188228,3452,HTTP Request-1,200,OK,HomePAge 1-12,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3452,0,2304
+1658568187539,4262,HTTP Request,200,OK,HomePAge 1-6,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,821,0,240
+1658568187539,821,HTTP Request-0,301,Moved Permanently,HomePAge 1-6,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,821,0,240
+1658568188361,3440,HTTP Request-1,200,OK,HomePAge 1-6,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3439,0,2268
+1658568183132,9208,Cart,200,OK,HomePAge 1-1,text,true,,111717,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,742,0,0
+1658568183132,742,Cart-0,301,Moved Permanently,HomePAge 1-1,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,742,0,0
+1658568183874,8466,Cart-1,200,OK,HomePAge 1-1,text,true,,111325,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1911,0,0
+1658568189051,5300,Cart,200,OK,HomePAge 1-8,text,true,,111255,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,470,0,0
+1658568189051,470,Cart-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,470,0,0
+1658568189521,4830,Cart-1,200,OK,HomePAge 1-8,text,true,,110863,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,868,0,0
+1658568187638,6788,Homepage,200,OK,HomePAge 1-5,text,true,,367909,236,20,20,https://www.flipkart.com/,284,0,0
+1658568187638,284,Homepage-0,301,Moved Permanently,HomePAge 1-5,text,true,,347,118,20,20,http://www.flipkart.com/,284,0,0
+1658568187922,6504,Homepage-1,200,OK,HomePAge 1-5,text,true,,367562,118,20,20,https://www.flipkart.com/,1241,0,0
+1658568188867,7324,HTTP Request,200,OK,HomePAge 1-4,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1324,0,643
+1658568188867,1324,HTTP Request-0,301,Moved Permanently,HomePAge 1-4,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1324,0,643
+1658568190192,5999,HTTP Request-1,200,OK,HomePAge 1-4,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,5999,0,3999
+1658568189516,8014,HTTP Request,200,OK,HomePAge 1-7,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1686,0,682
+1658568189516,1686,HTTP Request-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1686,0,682
+1658568191202,6328,HTTP Request-1,200,OK,HomePAge 1-7,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,6328,0,4736
+1658568171984,26174,Homepage,200,OK,HomePAge 1-20,text,true,,358322,236,20,20,https://www.flipkart.com/,187,0,86
+1658568171984,187,Homepage-0,301,Moved Permanently,HomePAge 1-20,text,true,,347,118,20,20,http://www.flipkart.com/,187,0,86
+1658568172172,25986,Homepage-1,200,OK,HomePAge 1-20,text,true,,357975,118,20,20,https://www.flipkart.com/,1614,0,779
+1658568190187,8355,HTTP Request,200,OK,HomePAge 1-15,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2236,0,992
+1658568190187,2236,HTTP Request-0,301,Moved Permanently,HomePAge 1-15,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2236,0,992
+1658568192423,6119,HTTP Request-1,200,OK,HomePAge 1-15,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,6119,0,4873
+1658568187676,11634,Homepage,200,OK,HomePAge 1-17,text,true,,357782,236,20,20,https://www.flipkart.com/,511,0,0
+1658568187676,511,Homepage-0,301,Moved Permanently,HomePAge 1-17,text,true,,347,118,20,20,http://www.flipkart.com/,511,0,0
+1658568188187,11123,Homepage-1,200,OK,HomePAge 1-17,text,true,,357435,118,20,20,https://www.flipkart.com/,1282,0,0
+1658568192341,7149,HTTP Request,200,OK,HomePAge 1-1,text,true,,10231,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3156,0,1521
+1658568192341,3156,HTTP Request-0,301,Moved Permanently,HomePAge 1-1,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3156,0,1521
+1658568195498,3992,HTTP Request-1,200,OK,HomePAge 1-1,text,true,,9839,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3992,0,3544
+1658568194351,6394,HTTP Request,200,OK,HomePAge 1-8,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3396,0,1807
+1658568194351,3397,HTTP Request-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,3396,0,1807
+1658568197750,2995,HTTP Request-1,200,OK,HomePAge 1-8,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2995,0,1892
+1658568198158,3197,Cart,200,OK,HomePAge 1-20,text,true,,112401,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,827,0,0
+1658568198158,827,Cart-0,301,Moved Permanently,HomePAge 1-20,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,827,0,0
+1658568198985,2370,Cart-1,200,OK,HomePAge 1-20,text,true,,112009,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,579,0,0
+1658568196192,5909,Homepage,200,OK,HomePAge 1-4,text,true,,364572,236,20,20,https://www.flipkart.com/,1568,0,0
+1658568196192,1568,Homepage-0,301,Moved Permanently,HomePAge 1-4,text,true,,347,118,20,20,http://www.flipkart.com/,1568,0,0
+1658568197760,4341,Homepage-1,200,OK,HomePAge 1-4,text,true,,364225,118,20,20,https://www.flipkart.com/,1144,0,0
+1658568199310,4612,Cart,200,OK,HomePAge 1-17,text,true,,115428,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,547,0,0
+1658568199310,547,Cart-0,301,Moved Permanently,HomePAge 1-17,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,547,0,0
+1658568199857,4065,Cart-1,200,OK,HomePAge 1-17,text,true,,115036,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1292,0,0
+1658568197531,9303,Homepage,200,OK,HomePAge 1-7,text,true,,373602,236,20,20,https://www.flipkart.com/,1053,0,0
+1658568197531,1054,Homepage-0,301,Moved Permanently,HomePAge 1-7,text,true,,347,118,20,20,http://www.flipkart.com/,1053,0,0
+1658568198585,8249,Homepage-1,200,OK,HomePAge 1-7,text,true,,373255,118,20,20,https://www.flipkart.com/,816,0,0
+1658568202101,4743,Cart,200,OK,HomePAge 1-4,text,true,,112643,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,794,0,0
+1658568202101,794,Cart-0,301,Moved Permanently,HomePAge 1-4,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,794,0,0
+1658568202895,3949,Cart-1,200,OK,HomePAge 1-4,text,true,,112251,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,881,0,0
+1658568198544,9387,Homepage,200,OK,HomePAge 1-15,text,true,,370587,236,20,20,https://www.flipkart.com/,518,0,0
+1658568198544,518,Homepage-0,301,Moved Permanently,HomePAge 1-15,text,true,,347,118,20,20,http://www.flipkart.com/,518,0,0
+1658568199062,8869,Homepage-1,200,OK,HomePAge 1-15,text,true,,370240,118,20,20,https://www.flipkart.com/,1331,0,0
+1658568203922,4010,HTTP Request,200,OK,HomePAge 1-17,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2926,0,0
+1658568203922,2926,HTTP Request-0,301,Moved Permanently,HomePAge 1-17,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2926,0,0
+1658568206849,1083,HTTP Request-1,200,OK,HomePAge 1-17,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1083,0,0
+1658568190626,17570,Homepage,200,OK,HomePAge 1-19,text,true,,368390,236,20,20,https://www.flipkart.com/,1163,0,0
+1658568190626,1163,Homepage-0,301,Moved Permanently,HomePAge 1-19,text,true,,347,118,20,20,http://www.flipkart.com/,1163,0,0
+1658568191788,16408,Homepage-1,200,OK,HomePAge 1-19,text,true,,368043,118,20,20,https://www.flipkart.com/,1964,0,0
+1658568189226,19012,Homepage,200,OK,HomePAge 1-16,text,true,,367070,236,20,20,https://www.flipkart.com/,724,0,0
+1658568189226,724,Homepage-0,301,Moved Permanently,HomePAge 1-16,text,true,,347,118,20,20,http://www.flipkart.com/,724,0,0
+1658568189951,18287,Homepage-1,200,OK,HomePAge 1-16,text,true,,366723,118,20,20,https://www.flipkart.com/,1626,0,0
+1658568206844,1612,HTTP Request,200,OK,HomePAge 1-4,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1030,0,0
+1658568206844,1030,HTTP Request-0,301,Moved Permanently,HomePAge 1-4,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1030,0,0
+1658568207874,582,HTTP Request-1,200,OK,HomePAge 1-4,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,575,0,0
+1658568201355,7120,HTTP Request,200,OK,HomePAge 1-20,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1542,0,679
+1658568201355,1542,HTTP Request-0,301,Moved Permanently,HomePAge 1-20,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1542,0,679
+1658568202898,5577,HTTP Request-1,200,OK,HomePAge 1-20,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,5577,0,4978
+1658568190592,17984,Homepage,200,OK,HomePAge 1-18,text,true,,368904,236,20,20,https://www.flipkart.com/,1088,0,0
+1658568190592,1088,Homepage-0,301,Moved Permanently,HomePAge 1-18,text,true,,347,118,20,20,http://www.flipkart.com/,1088,0,0
+1658568191679,16897,Homepage-1,200,OK,HomePAge 1-18,text,true,,368557,118,20,20,https://www.flipkart.com/,1837,0,0
+1658568191800,16822,Homepage,200,OK,HomePAge 1-6,text,true,,365447,236,20,20,https://www.flipkart.com/,1503,0,0
+1658568191800,1503,Homepage-0,301,Moved Permanently,HomePAge 1-6,text,true,,347,118,20,20,http://www.flipkart.com/,1503,0,0
+1658568193303,15319,Homepage-1,200,OK,HomePAge 1-6,text,true,,365100,118,20,20,https://www.flipkart.com/,1769,0,0
+1658568190537,19314,HTTP Request,200,OK,HomePAge 1-9,text,true,,10231,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2532,0,1121
+1658568190537,2532,HTTP Request-0,301,Moved Permanently,HomePAge 1-9,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2532,0,1121
+1658568193069,16782,HTTP Request-1,200,OK,HomePAge 1-9,text,true,,9839,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,16782,0,13756
+1658568206833,3108,Cart,200,OK,HomePAge 1-7,text,true,,111447,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1004,0,0
+1658568206833,1004,Cart-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1004,0,0
+1658568207838,2103,Cart-1,200,OK,HomePAge 1-7,text,true,,111055,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,710,0,0
+1658568191422,19174,Homepage,200,OK,HomePAge 1-2,text,true,,369476,236,20,20,https://www.flipkart.com/,1297,0,0
+1658568191422,1297,Homepage-0,301,Moved Permanently,HomePAge 1-2,text,true,,347,118,20,20,http://www.flipkart.com/,1297,0,0
+1658568192719,17877,Homepage-1,200,OK,HomePAge 1-2,text,true,,369129,118,20,20,https://www.flipkart.com/,1851,0,0
+1658568189868,20934,Homepage,200,OK,HomePAge 1-11,text,true,,365163,236,20,20,https://www.flipkart.com/,723,0,0
+1658568189868,723,Homepage-0,301,Moved Permanently,HomePAge 1-11,text,true,,347,118,20,20,http://www.flipkart.com/,723,0,0
+1658568190591,20211,Homepage-1,200,OK,HomePAge 1-11,text,true,,364816,118,20,20,https://www.flipkart.com/,1186,0,0
+1658568208237,4046,Cart,200,OK,HomePAge 1-16,text,true,,113049,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1265,0,0
+1658568208237,1265,Cart-0,301,Moved Permanently,HomePAge 1-16,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1265,0,0
+1658568209502,2781,Cart-1,200,OK,HomePAge 1-16,text,true,,112657,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1337,0,0
+1658568191680,20641,Homepage,200,OK,HomePAge 1-12,text,true,,363822,236,20,20,https://www.flipkart.com/,1353,0,0
+1658568191680,1353,Homepage-0,301,Moved Permanently,HomePAge 1-12,text,true,,347,118,20,20,http://www.flipkart.com/,1353,0,0
+1658568193034,19287,Homepage-1,200,OK,HomePAge 1-12,text,true,,363475,118,20,20,https://www.flipkart.com/,1790,0,0
+1658568194426,17975,Cart,200,OK,HomePAge 1-5,text,true,,111419,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1791,0,0
+1658568194426,1791,Cart-0,301,Moved Permanently,HomePAge 1-5,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1791,0,0
+1658568196218,16183,Cart-1,200,OK,HomePAge 1-5,text,true,,111027,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,3423,0,0
+1658568209942,2674,HTTP Request,200,OK,HomePAge 1-7,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1435,0,0
+1658568209942,1435,HTTP Request-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1435,0,0
+1658568211379,1237,HTTP Request-1,200,OK,HomePAge 1-7,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1237,0,0
+1658568189658,23284,Homepage,200,OK,HomePAge 1-3,text,true,,363767,236,20,20,https://www.flipkart.com/,595,0,0
+1658568189658,595,Homepage-0,301,Moved Permanently,HomePAge 1-3,text,true,,347,118,20,20,http://www.flipkart.com/,595,0,0
+1658568190253,22689,Homepage-1,200,OK,HomePAge 1-3,text,true,,363420,118,20,20,https://www.flipkart.com/,1461,0,0
+1658568200745,12204,Homepage,200,OK,HomePAge 1-8,text,true,,367780,236,20,20,https://www.flipkart.com/,711,0,0
+1658568200745,712,Homepage-0,301,Moved Permanently,HomePAge 1-8,text,true,,347,118,20,20,http://www.flipkart.com/,711,0,0
+1658568201456,11493,Homepage-1,200,OK,HomePAge 1-8,text,true,,367433,118,20,20,https://www.flipkart.com/,1275,0,0
+1658568199491,13600,Homepage,200,OK,HomePAge 1-1,text,true,,367311,236,20,20,https://www.flipkart.com/,935,0,0
+1658568199491,935,Homepage-0,301,Moved Permanently,HomePAge 1-1,text,true,,347,118,20,20,http://www.flipkart.com/,935,0,0
+1658568200426,12665,Homepage-1,200,OK,HomePAge 1-1,text,true,,366964,118,20,20,https://www.flipkart.com/,2448,0,0
+1658568212401,1388,HTTP Request,200,OK,HomePAge 1-5,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,696,0,0
+1658568212401,696,HTTP Request-0,301,Moved Permanently,HomePAge 1-5,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,696,0,0
+1658568213097,692,HTTP Request-1,200,OK,HomePAge 1-5,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,692,0,0
+1658568212285,1511,HTTP Request,200,OK,HomePAge 1-16,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,749,0,0
+1658568212285,750,HTTP Request-0,301,Moved Permanently,HomePAge 1-16,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,749,0,0
+1658568213035,761,HTTP Request-1,200,OK,HomePAge 1-16,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,761,0,0
+1658568210598,3573,Cart,200,OK,HomePAge 1-2,text,true,,112243,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1472,0,0
+1658568210598,1472,Cart-0,301,Moved Permanently,HomePAge 1-2,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1472,0,0
+1658568212071,2100,Cart-1,200,OK,HomePAge 1-2,text,true,,111851,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,890,0,0
+1658568210801,3457,Cart,200,OK,HomePAge 1-11,text,true,,104398,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1368,0,0
+1658568210801,1368,Cart-0,301,Moved Permanently,HomePAge 1-11,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1368,0,0
+1658568212171,2087,Cart-1,200,OK,HomePAge 1-11,text,true,,104006,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,889,0,0
+1658568212323,2185,Cart,200,OK,HomePAge 1-12,text,true,,111644,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,711,0,0
+1658568212323,712,Cart-0,301,Moved Permanently,HomePAge 1-12,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,711,0,0
+1658568213035,1473,Cart-1,200,OK,HomePAge 1-12,text,true,,111252,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,822,0,0
+1658568189451,25430,Homepage,200,OK,HomePAge 1-14,text,true,,370970,236,20,20,https://www.flipkart.com/,651,0,0
+1658568189451,651,Homepage-0,301,Moved Permanently,HomePAge 1-14,text,true,,347,118,20,20,http://www.flipkart.com/,651,0,0
+1658568190103,24778,Homepage-1,200,OK,HomePAge 1-14,text,true,,370623,118,20,20,https://www.flipkart.com/,2368,0,0
+1658568212943,1978,Cart,200,OK,HomePAge 1-3,text,true,,103181,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,516,0,0
+1658568212943,516,Cart-0,301,Moved Permanently,HomePAge 1-3,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,516,0,0
+1658568213459,1462,Cart-1,200,OK,HomePAge 1-3,text,true,,102789,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,831,0,0
+1658568208476,6559,Homepage,200,OK,HomePAge 1-20,text,true,,355547,236,20,20,https://www.flipkart.com/,1414,0,0
+1658568208476,1414,Homepage-0,301,Moved Permanently,HomePAge 1-20,text,true,,347,118,20,20,http://www.flipkart.com/,1414,0,0
+1658568209890,5145,Homepage-1,200,OK,HomePAge 1-20,text,true,,355200,118,20,20,https://www.flipkart.com/,1891,0,0
+1658568208197,7245,Cart,200,OK,HomePAge 1-19,text,true,,103372,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,605,0,0
+1658568208197,606,Cart-0,301,Moved Permanently,HomePAge 1-19,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,605,0,0
+1658568208803,6639,Cart-1,200,OK,HomePAge 1-19,text,true,,102980,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1672,0,0
+1658568214172,1463,HTTP Request,200,OK,HomePAge 1-2,text,true,,10231,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,704,0,0
+1658568214172,704,HTTP Request-0,301,Moved Permanently,HomePAge 1-2,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,704,0,0
+1658568214876,759,HTTP Request-1,200,OK,HomePAge 1-2,text,true,,9839,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,759,0,0
+1658568214259,1383,HTTP Request,200,OK,HomePAge 1-11,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,632,0,0
+1658568214259,632,HTTP Request-0,301,Moved Permanently,HomePAge 1-11,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,632,0,0
+1658568214891,751,HTTP Request-1,200,OK,HomePAge 1-11,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,751,0,0
+1658568212951,2726,Cart,200,OK,HomePAge 1-8,text,true,,113249,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,513,0,0
+1658568212951,513,Cart-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,513,0,0
+1658568213464,2213,Cart-1,200,OK,HomePAge 1-8,text,true,,112857,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,932,0,0
+1658568213091,2586,Cart,200,OK,HomePAge 1-1,text,true,,103525,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,640,0,0
+1658568213091,640,Cart-0,301,Moved Permanently,HomePAge 1-1,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,640,0,0
+1658568213732,1945,Cart-1,200,OK,HomePAge 1-1,text,true,,103133,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,929,0,0
+1658568214508,1195,HTTP Request,200,OK,HomePAge 1-12,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,550,0,0
+1658568214508,550,HTTP Request-0,301,Moved Permanently,HomePAge 1-12,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,550,0,0
+1658568215058,645,HTTP Request-1,200,OK,HomePAge 1-12,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,632,0,0
+1658568208577,7153,Cart,200,OK,HomePAge 1-18,text,true,,111907,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1411,0,0
+1658568208577,1411,Cart-0,301,Moved Permanently,HomePAge 1-18,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1411,0,0
+1658568209988,5742,Cart-1,200,OK,HomePAge 1-18,text,true,,111515,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,2822,0,0
+1658568208622,7160,Cart,200,OK,HomePAge 1-6,text,true,,111408,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1380,0,0
+1658568208622,1380,Cart-0,301,Moved Permanently,HomePAge 1-6,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1380,0,0
+1658568210003,5779,Cart-1,200,OK,HomePAge 1-6,text,true,,111016,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,4065,0,0
+1658568214921,1570,HTTP Request,200,OK,HomePAge 1-3,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,715,0,0
+1658568214921,715,HTTP Request-0,301,Moved Permanently,HomePAge 1-3,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,715,0,0
+1658568215636,855,HTTP Request-1,200,OK,HomePAge 1-3,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,855,0,0
+1658568215036,2325,Cart,200,OK,HomePAge 1-20,text,true,,111225,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,641,0,0
+1658568215036,641,Cart-0,301,Moved Permanently,HomePAge 1-20,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,641,0,0
+1658568215678,1683,Cart-1,200,OK,HomePAge 1-20,text,true,,110833,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1471,0,0
+1658568207933,9670,Homepage,200,OK,HomePAge 1-17,text,true,,365643,236,20,20,https://www.flipkart.com/,643,0,0
+1658568207933,643,Homepage-0,301,Moved Permanently,HomePAge 1-17,text,true,,347,118,20,20,http://www.flipkart.com/,643,0,0
+1658568208577,9026,Homepage-1,200,OK,HomePAge 1-17,text,true,,365296,118,20,20,https://www.flipkart.com/,1741,0,0
+1658568212616,5048,Homepage,200,OK,HomePAge 1-7,text,true,,360114,236,20,20,https://www.flipkart.com/,486,0,0
+1658568212616,486,Homepage-0,301,Moved Permanently,HomePAge 1-7,text,true,,347,118,20,20,http://www.flipkart.com/,486,0,0
+1658568213103,4561,Homepage-1,200,OK,HomePAge 1-7,text,true,,359767,118,20,20,https://www.flipkart.com/,1069,0,0
+1658568215444,2232,HTTP Request,200,OK,HomePAge 1-19,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,741,0,0
+1658568215444,741,HTTP Request-0,301,Moved Permanently,HomePAge 1-19,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,741,0,0
+1658568216186,1490,HTTP Request-1,200,OK,HomePAge 1-19,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1490,0,0
+1658568209852,7988,Homepage,200,OK,HomePAge 1-9,text,true,,367025,236,20,20,https://www.flipkart.com/,1525,0,0
+1658568209852,1525,Homepage-0,301,Moved Permanently,HomePAge 1-9,text,true,,347,118,20,20,http://www.flipkart.com/,1525,0,0
+1658568211379,6461,Homepage-1,200,OK,HomePAge 1-9,text,true,,366678,118,20,20,https://www.flipkart.com/,1472,0,0
+1658568207931,9918,Cart,200,OK,HomePAge 1-15,text,true,,110739,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,577,0,0
+1658568207931,577,Cart-0,301,Moved Permanently,HomePAge 1-15,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,577,0,0
+1658568208508,9341,Cart-1,200,OK,HomePAge 1-15,text,true,,110347,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1508,0,0
+1658568215678,2191,HTTP Request,200,OK,HomePAge 1-8,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,814,0,0
+1658568215678,814,HTTP Request-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,814,0,0
+1658568216491,1378,HTTP Request-1,200,OK,HomePAge 1-8,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1378,0,0
+1658568215731,2164,HTTP Request,200,OK,HomePAge 1-18,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,760,0,0
+1658568215731,760,HTTP Request-0,301,Moved Permanently,HomePAge 1-18,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,760,0,0
+1658568216490,1405,HTTP Request-1,200,OK,HomePAge 1-18,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1405,0,0
+1658568215678,2233,HTTP Request,200,OK,HomePAge 1-1,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,813,0,0
+1658568215678,813,HTTP Request-0,301,Moved Permanently,HomePAge 1-1,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,813,0,0
+1658568216490,1421,HTTP Request-1,200,OK,HomePAge 1-1,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1421,0,0
+1658568215784,2134,HTTP Request,200,OK,HomePAge 1-6,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,732,0,0
+1658568215784,732,HTTP Request-0,301,Moved Permanently,HomePAge 1-6,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,732,0,0
+1658568216515,1403,HTTP Request-1,200,OK,HomePAge 1-6,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1403,0,0
+1658568214881,3043,Cart,200,OK,HomePAge 1-14,text,true,,116539,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,754,0,0
+1658568214881,754,Cart-0,301,Moved Permanently,HomePAge 1-14,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,754,0,0
+1658568215636,2288,Cart-1,200,OK,HomePAge 1-14,text,true,,116147,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,975,0,0
+1658568213790,4499,Homepage,200,OK,HomePAge 1-5,text,true,,373366,236,20,20,https://www.flipkart.com/,633,0,0
+1658568213790,633,Homepage-0,301,Moved Permanently,HomePAge 1-5,text,true,,347,118,20,20,http://www.flipkart.com/,633,0,0
+1658568214423,3866,Homepage-1,200,OK,HomePAge 1-5,text,true,,373019,118,20,20,https://www.flipkart.com/,893,0,0
+1658568217361,1487,HTTP Request,200,OK,HomePAge 1-20,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,850,0,0
+1658568217361,850,HTTP Request-0,301,Moved Permanently,HomePAge 1-20,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,850,0,0
+1658568218211,637,HTTP Request-1,200,OK,HomePAge 1-20,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,637,0,0
+1658568213797,5100,Homepage,200,OK,HomePAge 1-16,text,true,,355583,236,20,20,https://www.flipkart.com/,626,0,0
+1658568213797,626,Homepage-0,301,Moved Permanently,HomePAge 1-16,text,true,,347,118,20,20,http://www.flipkart.com/,626,0,0
+1658568214423,4474,Homepage-1,200,OK,HomePAge 1-16,text,true,,355236,118,20,20,https://www.flipkart.com/,1121,0,0
+1658568217663,1399,Cart,200,OK,HomePAge 1-7,text,true,,111825,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,625,0,0
+1658568217663,625,Cart-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,625,0,0
+1658568218288,774,Cart-1,200,OK,HomePAge 1-7,text,true,,111433,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,641,0,0
+1658568217850,1246,HTTP Request,200,OK,HomePAge 1-15,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,664,0,0
+1658568217850,664,HTTP Request-0,301,Moved Permanently,HomePAge 1-15,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,664,0,0
+1658568218515,581,HTTP Request-1,200,OK,HomePAge 1-15,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,574,0,0
+1658568218289,2346,Cart,200,OK,HomePAge 1-5,text,true,,115098,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,607,0,0
+1658568218289,607,Cart-0,301,Moved Permanently,HomePAge 1-5,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,607,0,0
+1658568218896,1739,Cart-1,200,OK,HomePAge 1-5,text,true,,114706,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1480,0,0
+1658568217604,3094,Cart,200,OK,HomePAge 1-17,text,true,,103081,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,684,0,0
+1658568217604,684,Cart-0,301,Moved Permanently,HomePAge 1-17,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,684,0,0
+1658568218288,2410,Cart-1,200,OK,HomePAge 1-17,text,true,,102689,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,831,0,0
+1658568217840,3147,Cart,200,OK,HomePAge 1-9,text,true,,111396,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,674,0,0
+1658568217840,674,Cart-0,301,Moved Permanently,HomePAge 1-9,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,674,0,0
+1658568218515,2472,Cart-1,200,OK,HomePAge 1-9,text,true,,111004,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,843,0,0
+1658568219062,2493,HTTP Request,200,OK,HomePAge 1-7,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1289,0,0
+1658568219062,1289,HTTP Request-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1289,0,0
+1658568220352,1203,HTTP Request-1,200,OK,HomePAge 1-7,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1203,0,0
+1658568215636,7726,Homepage,200,OK,HomePAge 1-2,text,true,,362963,236,20,20,https://www.flipkart.com/,822,0,0
+1658568215636,822,Homepage-0,301,Moved Permanently,HomePAge 1-2,text,true,,347,118,20,20,http://www.flipkart.com/,822,0,0
+1658568216457,6905,Homepage-1,200,OK,HomePAge 1-2,text,true,,362616,118,20,20,https://www.flipkart.com/,1540,0,0
+1658568191348,32668,Homepage,200,OK,HomePAge 1-13,text,true,,365786,236,20,20,https://www.flipkart.com/,1308,0,0
+1658568191348,1308,Homepage-0,301,Moved Permanently,HomePAge 1-13,text,true,,347,118,20,20,http://www.flipkart.com/,1308,0,0
+1658568192656,31360,Homepage-1,200,OK,HomePAge 1-13,text,true,,365439,118,20,20,https://www.flipkart.com/,1774,0,0
+1658568220988,3662,HTTP Request,200,OK,HomePAge 1-9,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1031,0,0
+1658568220988,1031,HTTP Request-0,301,Moved Permanently,HomePAge 1-9,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1031,0,0
+1658568222019,2631,HTTP Request-1,200,OK,HomePAge 1-9,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2631,0,0
+1658568215704,9359,Homepage,200,OK,HomePAge 1-12,text,true,,357358,236,20,20,https://www.flipkart.com/,787,0,0
+1658568215704,787,Homepage-0,301,Moved Permanently,HomePAge 1-12,text,true,,347,118,20,20,http://www.flipkart.com/,787,0,0
+1658568216490,8573,Homepage-1,200,OK,HomePAge 1-12,text,true,,357011,118,20,20,https://www.flipkart.com/,1607,0,0
+1658568223363,2025,Cart,200,OK,HomePAge 1-2,text,true,,103810,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1271,0,0
+1658568223363,1271,Cart-0,301,Moved Permanently,HomePAge 1-2,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1271,0,0
+1658568224635,753,Cart-1,200,OK,HomePAge 1-2,text,true,,103418,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,632,0,0
+1658568217870,7596,Homepage,200,OK,HomePAge 1-8,text,true,,366637,236,20,20,https://www.flipkart.com/,644,0,0
+1658568217870,644,Homepage-0,301,Moved Permanently,HomePAge 1-8,text,true,,347,118,20,20,http://www.flipkart.com/,644,0,0
+1658568218515,6951,Homepage-1,200,OK,HomePAge 1-8,text,true,,366290,118,20,20,https://www.flipkart.com/,1627,0,0
+1658568219096,6566,Homepage,200,OK,HomePAge 1-15,text,true,,367842,236,20,20,https://www.flipkart.com/,1561,0,0
+1658568219096,1561,Homepage-0,301,Moved Permanently,HomePAge 1-15,text,true,,347,118,20,20,http://www.flipkart.com/,1561,0,0
+1658568220657,5005,Homepage-1,200,OK,HomePAge 1-15,text,true,,367495,118,20,20,https://www.flipkart.com/,1367,0,0
+1658568190983,34698,Homepage,200,OK,HomePAge 1-10,text,true,,371285,236,20,20,https://www.flipkart.com/,1067,0,0
+1658568190983,1068,Homepage-0,301,Moved Permanently,HomePAge 1-10,text,true,,347,118,20,20,http://www.flipkart.com/,1067,0,0
+1658568192050,33631,Homepage-1,200,OK,HomePAge 1-10,text,true,,370938,118,20,20,https://www.flipkart.com/,2220,0,0
+1658568224016,1700,Cart,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.flipkart.com:443 failed to respond,HomePAge 1-13,text,false,,2985,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1697,0,1482
+1658568224016,1698,Cart-0,301,Moved Permanently,HomePAge 1-13,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1697,0,1482
+1658568225714,2,Cart-1,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.flipkart.com:443 failed to respond,HomePAge 1-13,text,false,,2593,0,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,0,0,0
+1658568220635,5309,HTTP Request,200,OK,HomePAge 1-5,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1005,0,0
+1658568220635,1005,HTTP Request-0,301,Moved Permanently,HomePAge 1-5,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1005,0,0
+1658568221641,4303,HTTP Request-1,200,OK,HomePAge 1-5,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,4303,0,0
+1658568217923,8054,HTTP Request,200,OK,HomePAge 1-14,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2778,0,1179
+1658568217923,2778,HTTP Request-0,301,Moved Permanently,HomePAge 1-14,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2778,0,1179
+1658568220701,5276,HTTP Request-1,200,OK,HomePAge 1-14,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,5276,0,4797
+1658568225388,606,HTTP Request,200,OK,HomePAge 1-2,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,280,0,0
+1658568225388,280,HTTP Request-0,301,Moved Permanently,HomePAge 1-2,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,280,0,0
+1658568225668,326,HTTP Request-1,200,OK,HomePAge 1-2,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,326,0,0
+1658568221556,4535,Homepage,200,OK,HomePAge 1-7,text,true,,366061,236,20,20,https://www.flipkart.com/,1602,0,0
+1658568221556,1602,Homepage-0,301,Moved Permanently,HomePAge 1-7,text,true,,347,118,20,20,http://www.flipkart.com/,1602,0,0
+1658568223158,2933,Homepage-1,200,OK,HomePAge 1-7,text,true,,365714,118,20,20,https://www.flipkart.com/,1498,0,0
+1658568225467,801,Cart,200,OK,HomePAge 1-8,text,true,,112349,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,212,0,0
+1658568225467,212,Cart-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,212,0,0
+1658568225680,588,Cart-1,200,OK,HomePAge 1-8,text,true,,111957,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,479,0,0
+1658568225063,1534,Cart,200,OK,HomePAge 1-12,text,true,,103964,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,492,0,0
+1658568225063,492,Cart-0,301,Moved Permanently,HomePAge 1-12,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,492,0,0
+1658568225555,1042,Cart-1,200,OK,HomePAge 1-12,text,true,,103572,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,495,0,0
+1658568217918,9052,Homepage,200,OK,HomePAge 1-6,text,true,,367776,236,20,20,https://www.flipkart.com/,601,0,0
+1658568217918,601,Homepage-0,301,Moved Permanently,HomePAge 1-6,text,true,,347,118,20,20,http://www.flipkart.com/,601,0,0
+1658568218520,8450,Homepage-1,200,OK,HomePAge 1-6,text,true,,367429,118,20,20,https://www.flipkart.com/,1667,0,0
+1658568225662,1827,Cart,200,OK,HomePAge 1-15,text,true,,103908,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,284,0,0
+1658568225662,284,Cart-0,301,Moved Permanently,HomePAge 1-15,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,284,0,0
+1658568225946,1543,Cart-1,200,OK,HomePAge 1-15,text,true,,103516,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,759,0,0
+1658568226268,2142,HTTP Request,200,OK,HomePAge 1-8,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,749,0,0
+1658568226268,749,HTTP Request-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,749,0,0
+1658568227018,1392,HTTP Request-1,200,OK,HomePAge 1-8,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1392,0,0
+1658568224650,3880,Homepage,200,OK,HomePAge 1-9,text,true,,357669,236,20,20,https://www.flipkart.com/,492,0,0
+1658568224650,492,Homepage-0,301,Moved Permanently,HomePAge 1-9,text,true,,347,118,20,20,http://www.flipkart.com/,492,0,0
+1658568225142,3388,Homepage-1,200,OK,HomePAge 1-9,text,true,,357322,118,20,20,https://www.flipkart.com/,579,0,0
+1658568226598,2316,HTTP Request,200,OK,HomePAge 1-12,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,858,0,0
+1658568226598,858,HTTP Request-0,301,Moved Permanently,HomePAge 1-12,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,858,0,0
+1658568227457,1457,HTTP Request-1,200,OK,HomePAge 1-12,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1451,0,0
+1658568220699,8837,HTTP Request,200,OK,HomePAge 1-17,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1005,0,0
+1658568220699,1005,HTTP Request-0,301,Moved Permanently,HomePAge 1-17,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1005,0,0
+1658568221705,7831,HTTP Request-1,200,OK,HomePAge 1-17,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,7831,0,0
+1658568225682,3951,Cart,200,OK,HomePAge 1-10,text,true,,114961,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,916,0,325
+1658568225682,916,Cart-0,301,Moved Permanently,HomePAge 1-10,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,916,0,325
+1658568226598,3035,Cart-1,200,OK,HomePAge 1-10,text,true,,114569,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1402,0,0
+1658568226091,3810,Cart,200,OK,HomePAge 1-7,text,true,,113024,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,838,0,0
+1658568226091,839,Cart-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,838,0,0
+1658568226930,2971,Cart-1,200,OK,HomePAge 1-7,text,true,,112632,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1624,0,0
+1658568227490,2669,HTTP Request,200,OK,HomePAge 1-15,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1480,0,0
+1658568227490,1480,HTTP Request-0,301,Moved Permanently,HomePAge 1-15,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1480,0,0
+1658568228970,1189,HTTP Request-1,200,OK,HomePAge 1-15,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1189,0,0
+1658568218896,11296,Cart,200,OK,HomePAge 1-16,text,true,,104332,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1354,0,0
+1658568218896,1354,Cart-0,301,Moved Permanently,HomePAge 1-16,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1354,0,0
+1658568220251,9941,Cart-1,200,OK,HomePAge 1-16,text,true,,103940,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1319,0,0
+1658568217675,12541,Homepage,200,OK,HomePAge 1-19,text,true,,364361,236,20,20,https://www.flipkart.com/,667,0,0
+1658568217675,667,Homepage-0,301,Moved Permanently,HomePAge 1-19,text,true,,347,118,20,20,http://www.flipkart.com/,667,0,0
+1658568218342,11874,Homepage-1,200,OK,HomePAge 1-19,text,true,,364014,118,20,20,https://www.flipkart.com/,1308,0,0
+1658568225717,5360,HTTP Request,200,OK,HomePAge 1-13,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,880,0,290
+1658568225717,880,HTTP Request-0,301,Moved Permanently,HomePAge 1-13,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,880,0,290
+1658568226598,4479,HTTP Request-1,200,OK,HomePAge 1-13,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,4479,0,3546
+1658568226970,4165,Cart,200,OK,HomePAge 1-6,text,true,,109405,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1377,0,0
+1658568226970,1377,Cart-0,301,Moved Permanently,HomePAge 1-6,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1377,0,0
+1658568228347,2788,Cart-1,200,OK,HomePAge 1-6,text,true,,109013,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1317,0,0
+1658568228531,2724,Cart,200,OK,HomePAge 1-9,text,true,,111657,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1165,0,0
+1658568228531,1165,Cart-0,301,Moved Permanently,HomePAge 1-9,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1165,0,0
+1658568229696,1559,Cart-1,200,OK,HomePAge 1-9,text,true,,111265,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,833,0,0
+1658568229901,1579,HTTP Request,200,OK,HomePAge 1-7,text,true,,10231,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,778,0,0
+1658568229901,778,HTTP Request-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,778,0,0
+1658568230680,800,HTTP Request-1,200,OK,HomePAge 1-7,text,true,,9839,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,800,0,0
+1658568230193,1588,HTTP Request,200,OK,HomePAge 1-16,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,926,0,0
+1658568230193,926,HTTP Request-0,301,Moved Permanently,HomePAge 1-16,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,926,0,0
+1658568231119,662,HTTP Request-1,200,OK,HomePAge 1-16,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,662,0,0
+1658568225978,5918,Homepage,200,OK,HomePAge 1-14,text,true,,370308,236,20,20,https://www.flipkart.com/,340,0,0
+1658568225978,340,Homepage-0,301,Moved Permanently,HomePAge 1-14,text,true,,347,118,20,20,http://www.flipkart.com/,340,0,0
+1658568226318,5578,Homepage-1,200,OK,HomePAge 1-14,text,true,,369961,118,20,20,https://www.flipkart.com/,1043,0,0
+1658568225945,5991,Homepage,200,OK,HomePAge 1-5,text,true,,368988,236,20,20,https://www.flipkart.com/,345,0,0
+1658568225945,346,Homepage-0,301,Moved Permanently,HomePAge 1-5,text,true,,347,118,20,20,http://www.flipkart.com/,345,0,0
+1658568226291,5645,Homepage-1,200,OK,HomePAge 1-5,text,true,,368641,118,20,20,https://www.flipkart.com/,1098,0,0
+1658568230216,1806,Cart,200,OK,HomePAge 1-19,text,true,,117956,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,919,0,0
+1658568230216,919,Cart-0,301,Moved Permanently,HomePAge 1-19,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,919,0,0
+1658568231135,887,Cart-1,200,OK,HomePAge 1-19,text,true,,117564,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,728,0,0
+1658568208456,23583,Homepage,200,OK,HomePAge 1-4,text,true,,370386,236,20,20,https://www.flipkart.com/,1401,0,0
+1658568208456,1401,Homepage-0,301,Moved Permanently,HomePAge 1-4,text,true,,347,118,20,20,http://www.flipkart.com/,1401,0,0
+1658568209857,22182,Homepage-1,200,OK,HomePAge 1-4,text,true,,370039,118,20,20,https://www.flipkart.com/,1890,0,0
+1658568231136,1138,HTTP Request,200,OK,HomePAge 1-6,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,685,0,0
+1658568231136,685,HTTP Request-0,301,Moved Permanently,HomePAge 1-6,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,685,0,0
+1658568231821,453,HTTP Request-1,200,OK,HomePAge 1-6,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,453,0,0
+1658568231256,1047,HTTP Request,200,OK,HomePAge 1-9,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,599,0,0
+1658568231256,599,HTTP Request-0,301,Moved Permanently,HomePAge 1-9,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,599,0,0
+1658568231855,448,HTTP Request-1,200,OK,HomePAge 1-9,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,447,0,0
+1658568228411,4158,Homepage,200,OK,HomePAge 1-8,text,true,,357841,236,20,20,https://www.flipkart.com/,1178,0,0
+1658568228411,1178,Homepage-0,301,Moved Permanently,HomePAge 1-8,text,true,,347,118,20,20,http://www.flipkart.com/,1178,0,0
+1658568229589,2980,Homepage-1,200,OK,HomePAge 1-8,text,true,,357494,118,20,20,https://www.flipkart.com/,879,0,0
+1658568229633,3829,HTTP Request,200,OK,HomePAge 1-10,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1502,0,591
+1658568229633,1502,HTTP Request-0,301,Moved Permanently,HomePAge 1-10,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1502,0,591
+1658568231135,2327,HTTP Request-1,200,OK,HomePAge 1-10,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2327,0,1727
+1658568232023,1508,HTTP Request,200,OK,HomePAge 1-19,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,546,0,0
+1658568232023,546,HTTP Request-0,301,Moved Permanently,HomePAge 1-19,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,546,0,0
+1658568232570,961,HTTP Request-1,200,OK,HomePAge 1-19,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,479,0,0
+1658568229537,4098,Homepage,200,OK,HomePAge 1-17,text,true,,368603,236,20,20,https://www.flipkart.com/,661,0,0
+1658568229537,661,Homepage-0,301,Moved Permanently,HomePAge 1-17,text,true,,347,118,20,20,http://www.flipkart.com/,661,0,0
+1658568230198,3437,Homepage-1,200,OK,HomePAge 1-17,text,true,,368256,118,20,20,https://www.flipkart.com/,1310,0,0
+1658568230160,3662,Homepage,200,OK,HomePAge 1-15,text,true,,368898,236,20,20,https://www.flipkart.com/,922,0,0
+1658568230160,922,Homepage-0,301,Moved Permanently,HomePAge 1-15,text,true,,347,118,20,20,http://www.flipkart.com/,922,0,0
+1658568231082,2740,Homepage-1,200,OK,HomePAge 1-15,text,true,,368551,118,20,20,https://www.flipkart.com/,793,0,0
+1658568228914,5027,Homepage,200,OK,HomePAge 1-12,text,true,,358004,236,20,20,https://www.flipkart.com/,1229,0,0
+1658568228914,1229,Homepage-0,301,Moved Permanently,HomePAge 1-12,text,true,,347,118,20,20,http://www.flipkart.com/,1229,0,0
+1658568230144,3797,Homepage-1,200,OK,HomePAge 1-12,text,true,,357657,118,20,20,https://www.flipkart.com/,1611,0,0
+1658568217912,16282,Homepage,200,OK,HomePAge 1-1,text,true,,364930,236,20,20,https://www.flipkart.com/,607,0,0
+1658568217912,607,Homepage-0,301,Moved Permanently,HomePAge 1-1,text,true,,347,118,20,20,http://www.flipkart.com/,607,0,0
+1658568218519,15675,Homepage-1,200,OK,HomePAge 1-1,text,true,,364583,118,20,20,https://www.flipkart.com/,1731,0,0
+1658568218849,15489,Homepage,200,OK,HomePAge 1-20,text,true,,366032,236,20,20,https://www.flipkart.com/,1310,0,0
+1658568218849,1311,Homepage-0,301,Moved Permanently,HomePAge 1-20,text,true,,347,118,20,20,http://www.flipkart.com/,1310,0,0
+1658568220160,14178,Homepage-1,200,OK,HomePAge 1-20,text,true,,365685,118,20,20,https://www.flipkart.com/,2701,0,0
+1658568217896,16580,Homepage,200,OK,HomePAge 1-18,text,true,,367471,236,20,20,https://www.flipkart.com/,618,0,0
+1658568217896,618,Homepage-0,301,Moved Permanently,HomePAge 1-18,text,true,,347,118,20,20,http://www.flipkart.com/,618,0,0
+1658568218515,15961,Homepage-1,200,OK,HomePAge 1-18,text,true,,367124,118,20,20,https://www.flipkart.com/,1547,0,0
+1658568231077,3667,Homepage,200,OK,HomePAge 1-13,text,true,,363864,236,20,20,https://www.flipkart.com/,677,0,0
+1658568231077,677,Homepage-0,301,Moved Permanently,HomePAge 1-13,text,true,,347,118,20,20,http://www.flipkart.com/,677,0,0
+1658568231754,2990,Homepage-1,200,OK,HomePAge 1-13,text,true,,363517,118,20,20,https://www.flipkart.com/,2111,0,1416
+1658568231937,3919,Cart,200,OK,HomePAge 1-5,text,true,,111131,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1016,0,590
+1658568231937,1016,Cart-0,301,Moved Permanently,HomePAge 1-5,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1016,0,590
+1658568232953,2903,Cart-1,200,OK,HomePAge 1-5,text,true,,110739,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1606,0,1108
+1658568225995,10105,Homepage,200,OK,HomePAge 1-2,text,true,,366263,236,20,20,https://www.flipkart.com/,460,0,0
+1658568225995,460,Homepage-0,301,Moved Permanently,HomePAge 1-2,text,true,,347,118,20,20,http://www.flipkart.com/,460,0,0
+1658568226455,9645,Homepage-1,200,OK,HomePAge 1-2,text,true,,365916,118,20,20,https://www.flipkart.com/,1060,0,0
+1658568231896,4433,Cart,200,OK,HomePAge 1-14,text,true,,111934,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1080,0,631
+1658568231896,1080,Cart-0,301,Moved Permanently,HomePAge 1-14,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1080,0,631
+1658568232976,3353,Cart-1,200,OK,HomePAge 1-14,text,true,,111542,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1739,0,1240
+1658568232040,4342,Cart,200,OK,HomePAge 1-4,text,true,,116618,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,984,0,543
+1658568232040,984,Cart-0,301,Moved Permanently,HomePAge 1-4,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,984,0,543
+1658568233025,3357,Cart-1,200,OK,HomePAge 1-4,text,true,,116226,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1732,0,1279
+1658568231781,5088,Homepage,200,OK,HomePAge 1-16,text,true,,369256,236,20,20,https://www.flipkart.com/,413,0,0
+1658568231781,413,Homepage-0,301,Moved Permanently,HomePAge 1-16,text,true,,347,118,20,20,http://www.flipkart.com/,413,0,0
+1658568232194,4675,Homepage-1,200,OK,HomePAge 1-16,text,true,,368909,118,20,20,https://www.flipkart.com/,2116,0,1616
+1658568234745,2291,Cart,200,OK,HomePAge 1-13,text,true,,112102,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,465,0,0
+1658568234745,465,Cart-0,301,Moved Permanently,HomePAge 1-13,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,465,0,0
+1658568235210,1826,Cart-1,200,OK,HomePAge 1-13,text,true,,111710,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,971,0,0
+1658568232570,4650,Cart,200,OK,HomePAge 1-8,text,true,,111026,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,966,0,461
+1658568232570,966,Cart-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,966,0,461
+1658568233536,3684,Cart-1,200,OK,HomePAge 1-8,text,true,,110634,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1641,0,1045
+1658568231480,5906,Homepage,200,OK,HomePAge 1-7,text,true,,368625,236,20,20,https://www.flipkart.com/,1039,0,463
+1658568231480,1039,Homepage-0,301,Moved Permanently,HomePAge 1-7,text,true,,347,118,20,20,http://www.flipkart.com/,1039,0,463
+1658568232519,4867,Homepage-1,200,OK,HomePAge 1-7,text,true,,368278,118,20,20,https://www.flipkart.com/,1975,0,1350
+1658568236330,1232,HTTP Request,200,OK,HomePAge 1-14,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,767,0,0
+1658568236330,767,HTTP Request-0,301,Moved Permanently,HomePAge 1-14,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,767,0,0
+1658568237097,465,HTTP Request-1,200,OK,HomePAge 1-14,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,465,0,0
+1658568236383,1273,HTTP Request,200,OK,HomePAge 1-4,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,773,0,0
+1658568236383,773,HTTP Request-0,301,Moved Permanently,HomePAge 1-4,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,773,0,0
+1658568237156,500,HTTP Request-1,200,OK,HomePAge 1-4,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,500,0,0
+1658568235856,1802,HTTP Request,200,OK,HomePAge 1-5,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,966,0,0
+1658568235856,966,HTTP Request-0,301,Moved Permanently,HomePAge 1-5,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,966,0,0
+1658568236824,834,HTTP Request-1,200,OK,HomePAge 1-5,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,398,0,0
+1658568216491,21217,Homepage,200,OK,HomePAge 1-3,text,true,,365924,236,20,20,https://www.flipkart.com/,1358,0,0
+1658568216491,1358,Homepage-0,301,Moved Permanently,HomePAge 1-3,text,true,,347,118,20,20,http://www.flipkart.com/,1358,0,0
+1658568217849,19859,Homepage-1,200,OK,HomePAge 1-3,text,true,,365577,118,20,20,https://www.flipkart.com/,966,0,0
+1658568237038,956,HTTP Request,200,OK,HomePAge 1-13,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,358,0,0
+1658568237038,358,HTTP Request-0,301,Moved Permanently,HomePAge 1-13,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,358,0,0
+1658568237397,597,HTTP Request-1,200,OK,HomePAge 1-13,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,597,0,0
+1658568233635,4380,Cart,200,OK,HomePAge 1-17,text,true,,103197,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,670,0,313
+1658568233635,670,Cart-0,301,Moved Permanently,HomePAge 1-17,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,670,0,313
+1658568234305,3710,Cart-1,200,OK,HomePAge 1-17,text,true,,102805,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,2756,0,1244
+1658568233824,4345,Cart,200,OK,HomePAge 1-15,text,true,,114544,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,597,0,256
+1658568233824,597,Cart-0,301,Moved Permanently,HomePAge 1-15,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,597,0,256
+1658568234422,3747,Cart-1,200,OK,HomePAge 1-15,text,true,,114152,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,2697,0,1435
+1658568237222,1068,HTTP Request,200,OK,HomePAge 1-8,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,500,0,0
+1658568237222,500,HTTP Request-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,500,0,0
+1658568237722,568,HTTP Request-1,200,OK,HomePAge 1-8,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,568,0,0
+1658568233942,4472,Cart,200,OK,HomePAge 1-12,text,true,,110510,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,645,0,368
+1658568233942,645,Cart-0,301,Moved Permanently,HomePAge 1-12,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,645,0,368
+1658568234588,3826,Cart-1,200,OK,HomePAge 1-12,text,true,,110118,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,2533,0,1588
+1658568232303,6357,Homepage,200,OK,HomePAge 1-9,text,true,,366197,236,20,20,https://www.flipkart.com/,1091,0,545
+1658568232303,1091,Homepage-0,301,Moved Permanently,HomePAge 1-9,text,true,,347,118,20,20,http://www.flipkart.com/,1091,0,545
+1658568233394,5266,Homepage-1,200,OK,HomePAge 1-9,text,true,,365850,118,20,20,https://www.flipkart.com/,1702,0,1028
+1658568234195,5403,Cart,200,OK,HomePAge 1-1,text,true,,103702,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,549,0,275
+1658568234195,549,Cart-0,301,Moved Permanently,HomePAge 1-1,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,549,0,275
+1658568234744,4854,Cart-1,200,OK,HomePAge 1-1,text,true,,103310,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,2791,0,2178
+1658568236870,2963,Cart,200,OK,HomePAge 1-16,text,true,,112602,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,852,0,460
+1658568236870,852,Cart-0,301,Moved Permanently,HomePAge 1-16,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,852,0,460
+1658568237722,2111,Cart-1,200,OK,HomePAge 1-16,text,true,,112210,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,781,0,0
+1658568232274,7800,Homepage,200,OK,HomePAge 1-6,text,true,,371839,236,20,20,https://www.flipkart.com/,1160,0,574
+1658568232274,1161,Homepage-0,301,Moved Permanently,HomePAge 1-6,text,true,,347,118,20,20,http://www.flipkart.com/,1160,0,574
+1658568233435,6639,Homepage-1,200,OK,HomePAge 1-6,text,true,,371492,118,20,20,https://www.flipkart.com/,1840,0,1042
+1658568234338,5769,Cart,200,OK,HomePAge 1-20,text,true,,112748,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,741,0,319
+1658568234338,741,Cart-0,301,Moved Permanently,HomePAge 1-20,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,741,0,319
+1658568235079,5028,Cart-1,200,OK,HomePAge 1-20,text,true,,112356,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,2656,0,2137
+1658568237387,2848,Cart,200,OK,HomePAge 1-7,text,true,,117496,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,521,0,0
+1658568237387,521,Cart-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,521,0,0
+1658568237908,2327,Cart-1,200,OK,HomePAge 1-7,text,true,,117104,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1235,0,0
+1658568238171,2065,HTTP Request,200,OK,HomePAge 1-15,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,965,0,0
+1658568238171,965,HTTP Request-0,301,Moved Permanently,HomePAge 1-15,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,965,0,0
+1658568239136,1100,HTTP Request-1,200,OK,HomePAge 1-15,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1100,0,0
+1658568233531,6706,Homepage,200,OK,HomePAge 1-19,text,true,,368423,236,20,20,https://www.flipkart.com/,668,0,346
+1658568233531,668,Homepage-0,301,Moved Permanently,HomePAge 1-19,text,true,,347,118,20,20,http://www.flipkart.com/,668,0,346
+1658568234199,6038,Homepage-1,200,OK,HomePAge 1-19,text,true,,368076,118,20,20,https://www.flipkart.com/,2142,0,1077
+1658568238415,2054,HTTP Request,200,OK,HomePAge 1-12,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1184,0,0
+1658568238415,1184,HTTP Request-0,301,Moved Permanently,HomePAge 1-12,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1184,0,0
+1658568239599,870,HTTP Request-1,200,OK,HomePAge 1-12,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,870,0,0
+1658568234477,6268,Cart,200,OK,HomePAge 1-18,text,true,,111337,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,733,0,287
+1658568234477,733,Cart-0,301,Moved Permanently,HomePAge 1-18,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,733,0,287
+1658568235210,5535,Cart-1,200,OK,HomePAge 1-18,text,true,,110945,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,2858,0,2178
+1658568238017,2811,HTTP Request,200,OK,HomePAge 1-17,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,700,0,0
+1658568238017,700,HTTP Request-0,301,Moved Permanently,HomePAge 1-17,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,700,0,0
+1658568238717,2111,HTTP Request-1,200,OK,HomePAge 1-17,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,2111,0,0
+1658568239599,1712,HTTP Request,200,OK,HomePAge 1-1,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,851,0,0
+1658568239599,851,HTTP Request-0,301,Moved Permanently,HomePAge 1-1,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,851,0,0
+1658568240450,861,HTTP Request-1,200,OK,HomePAge 1-1,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,861,0,0
+1658568239833,1629,HTTP Request,200,OK,HomePAge 1-16,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,783,0,0
+1658568239833,783,HTTP Request-0,301,Moved Permanently,HomePAge 1-16,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,783,0,0
+1658568240617,845,HTTP Request-1,200,OK,HomePAge 1-16,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,845,0,0
+1658568233463,8149,Homepage,200,OK,HomePAge 1-10,text,true,,369163,236,20,20,https://www.flipkart.com/,359,0,0
+1658568233463,359,Homepage-0,301,Moved Permanently,HomePAge 1-10,text,true,,347,118,20,20,http://www.flipkart.com/,359,0,0
+1658568233823,7789,Homepage-1,200,OK,HomePAge 1-10,text,true,,368816,118,20,20,https://www.flipkart.com/,1765,0,834
+1658568238661,3075,Cart,200,OK,HomePAge 1-9,text,true,,113446,326,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1447,0,0
+1658568238661,1447,Cart-0,301,Moved Permanently,HomePAge 1-9,text,true,,392,163,20,20,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1447,0,0
+1658568240108,1628,Cart-1,200,OK,HomePAge 1-9,text,true,,113054,163,20,20,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,789,0,0
+1658568240108,2054,HTTP Request,200,OK,HomePAge 1-20,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,728,0,0
+1658568240108,728,HTTP Request-0,301,Moved Permanently,HomePAge 1-20,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,728,0,0
+1658568240836,1326,HTTP Request-1,200,OK,HomePAge 1-20,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1326,0,0
+1658568240235,1993,HTTP Request,200,OK,HomePAge 1-7,text,true,,10191,358,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,702,0,0
+1658568240235,702,HTTP Request-0,301,Moved Permanently,HomePAge 1-7,text,true,,392,179,20,20,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,702,0,0
+1658568240937,1291,HTTP Request-1,200,OK,HomePAge 1-7,text,true,,9799,179,20,20,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1291,0,0
+1658568237995,4348,Homepage,200,OK,HomePAge 1-13,text,true,,359598,236,19,19,https://www.flipkart.com/,719,0,0
+1658568237995,719,Homepage-0,301,Moved Permanently,HomePAge 1-13,text,true,,347,118,19,19,http://www.flipkart.com/,719,0,0
+1658568238715,3628,Homepage-1,200,OK,HomePAge 1-13,text,true,,359251,118,19,19,https://www.flipkart.com/,1535,0,0
+1658568240747,2374,HTTP Request,200,OK,HomePAge 1-18,text,true,,10191,358,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1278,0,0
+1658568240747,1278,HTTP Request-0,301,Moved Permanently,HomePAge 1-18,text,true,,392,179,19,19,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1278,0,0
+1658568242024,1097,HTTP Request-1,200,OK,HomePAge 1-18,text,true,,9799,179,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1097,0,0
+1658568236100,7457,Cart,200,OK,HomePAge 1-2,text,true,,110444,326,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1286,0,849
+1658568236100,1286,Cart-0,301,Moved Permanently,HomePAge 1-2,text,true,,392,163,19,19,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1286,0,849
+1658568237387,6170,Cart-1,200,OK,HomePAge 1-2,text,true,,110052,163,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,3593,0,2734
+1658568241735,1888,HTTP Request,200,OK,HomePAge 1-9,text,true,,10191,358,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,619,0,0
+1658568241735,619,HTTP Request-0,301,Moved Permanently,HomePAge 1-9,text,true,,392,179,19,19,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,619,0,0
+1658568242354,1269,HTTP Request-1,200,OK,HomePAge 1-9,text,true,,9799,179,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1269,0,0
+1658568240238,3390,Cart,200,OK,HomePAge 1-19,text,true,,113420,326,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,699,0,0
+1658568240238,699,Cart-0,301,Moved Permanently,HomePAge 1-19,text,true,,392,163,19,19,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,699,0,0
+1658568240937,2691,Cart-1,200,OK,HomePAge 1-19,text,true,,113028,163,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1460,0,0
+1658568237563,6227,Homepage,200,OK,HomePAge 1-14,text,true,,368889,236,19,19,https://www.flipkart.com/,477,0,0
+1658568237563,477,Homepage-0,301,Moved Permanently,HomePAge 1-14,text,true,,347,118,19,19,http://www.flipkart.com/,477,0,0
+1658568238040,5750,Homepage-1,200,OK,HomePAge 1-14,text,true,,368542,118,19,19,https://www.flipkart.com/,1659,0,0
+1658568237659,6250,Homepage,200,OK,HomePAge 1-5,text,true,,368036,236,19,19,https://www.flipkart.com/,535,0,0
+1658568237659,535,Homepage-0,301,Moved Permanently,HomePAge 1-5,text,true,,347,118,19,19,http://www.flipkart.com/,535,0,0
+1658568238195,5714,Homepage-1,200,OK,HomePAge 1-5,text,true,,367689,118,19,19,https://www.flipkart.com/,1661,0,0
+1658568237657,6617,Homepage,200,OK,HomePAge 1-4,text,true,,368432,236,19,19,https://www.flipkart.com/,521,0,0
+1658568237657,521,Homepage-0,301,Moved Permanently,HomePAge 1-4,text,true,,347,118,19,19,http://www.flipkart.com/,521,0,0
+1658568238179,6095,Homepage-1,200,OK,HomePAge 1-4,text,true,,368085,118,19,19,https://www.flipkart.com/,1738,0,0
+1658568238291,6189,Homepage,200,OK,HomePAge 1-8,text,true,,367936,236,19,19,https://www.flipkart.com/,1191,0,0
+1658568215643,28836,Homepage,200,OK,HomePAge 1-11,text,true,,365306,236,19,19,https://www.flipkart.com/,819,0,0
+1658568238291,1191,Homepage-0,301,Moved Permanently,HomePAge 1-8,text,true,,347,118,19,19,http://www.flipkart.com/,1191,0,0
+1658568215643,819,Homepage-0,301,Moved Permanently,HomePAge 1-11,text,true,,347,118,19,19,http://www.flipkart.com/,819,0,0
+1658568239482,4998,Homepage-1,200,OK,HomePAge 1-8,text,true,,367589,118,19,19,https://www.flipkart.com/,1269,0,0
+1658568216461,28018,Homepage-1,200,OK,HomePAge 1-11,text,true,,364959,118,19,19,https://www.flipkart.com/,1489,0,0
+1658568241612,3176,Cart,200,OK,HomePAge 1-10,text,true,,112306,326,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,742,0,0
+1658568241612,742,Cart-0,301,Moved Permanently,HomePAge 1-10,text,true,,392,163,19,19,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,742,0,0
+1658568242354,2434,Cart-1,200,OK,HomePAge 1-10,text,true,,111914,163,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1477,0,0
+1658568243557,1562,HTTP Request,200,OK,HomePAge 1-2,text,true,,10191,358,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,922,0,0
+1658568243557,922,HTTP Request-0,301,Moved Permanently,HomePAge 1-2,text,true,,392,179,19,19,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,922,0,0
+1658568244479,640,HTTP Request-1,200,OK,HomePAge 1-2,text,true,,9799,179,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,640,0,0
+1658568243627,1560,HTTP Request,200,OK,HomePAge 1-19,text,true,,10191,358,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,954,0,0
+1658568243627,954,HTTP Request-0,301,Moved Permanently,HomePAge 1-19,text,true,,392,179,19,19,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,954,0,0
+1658568244581,606,HTTP Request-1,200,OK,HomePAge 1-19,text,true,,9799,179,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,606,0,0
+1658568242343,2898,Cart,200,OK,HomePAge 1-13,text,true,,111272,326,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1267,0,0
+1658568242343,1267,Cart-0,301,Moved Permanently,HomePAge 1-13,text,true,,392,163,19,19,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1267,0,0
+1658568243610,1631,Cart-1,200,OK,HomePAge 1-13,text,true,,110880,163,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1049,0,0
+1658568243789,1633,Cart,200,OK,HomePAge 1-14,text,true,,112731,326,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,826,0,0
+1658568243789,826,Cart-0,301,Moved Permanently,HomePAge 1-14,text,true,,392,163,19,19,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,826,0,0
+1658568244615,807,Cart-1,200,OK,HomePAge 1-14,text,true,,112339,163,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,682,0,0
+1658568237710,8630,Cart,200,OK,HomePAge 1-3,text,true,,115269,326,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1754,0,491
+1658568237710,1754,Cart-0,301,Moved Permanently,HomePAge 1-3,text,true,,392,163,19,19,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1754,0,491
+1658568239464,6876,Cart-1,200,OK,HomePAge 1-3,text,true,,114877,163,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,4176,0,2826
+1658568244479,1982,Cart,200,OK,HomePAge 1-8,text,true,,111414,326,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,601,0,0
+1658568244479,601,Cart-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,163,19,19,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,601,0,0
+1658568245080,1381,Cart-1,200,OK,HomePAge 1-8,text,true,,111022,163,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1295,0,0
+1658568244273,2302,Cart,200,OK,HomePAge 1-4,text,true,,103572,326,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,726,0,0
+1658568244273,726,Cart-0,301,Moved Permanently,HomePAge 1-4,text,true,,392,163,19,19,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,726,0,0
+1658568244999,1576,Cart-1,200,OK,HomePAge 1-4,text,true,,103180,163,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1490,0,0
+1658568244788,1913,HTTP Request,200,OK,HomePAge 1-10,text,true,,10231,358,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,707,0,0
+1658568244788,707,HTTP Request-0,301,Moved Permanently,HomePAge 1-10,text,true,,392,179,19,19,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,707,0,0
+1658568245495,1206,HTTP Request-1,200,OK,HomePAge 1-10,text,true,,9839,179,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1206,0,0
+1658568243908,3479,Cart,200,OK,HomePAge 1-5,text,true,,111438,326,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,919,0,0
+1658568243908,919,Cart-0,301,Moved Permanently,HomePAge 1-5,text,true,,392,163,19,19,http://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,919,0,0
+1658568244827,2560,Cart-1,200,OK,HomePAge 1-5,text,true,,111046,163,19,19,https://www.flipkart.com/viewcart?exploreMode=true&preference=FLIPKART,1342,0,0
+1658568241461,6241,Homepage,200,OK,HomePAge 1-16,text,true,,367919,236,19,19,https://www.flipkart.com/,828,0,0
+1658568241461,828,Homepage-0,301,Moved Permanently,HomePAge 1-16,text,true,,347,118,19,19,http://www.flipkart.com/,828,0,0
+1658568242289,5413,Homepage-1,200,OK,HomePAge 1-16,text,true,,367572,118,19,19,https://www.flipkart.com/,1631,0,0
+1658568245241,2479,HTTP Request,200,OK,HomePAge 1-13,text,true,,10191,358,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1375,0,0
+1658568245241,1375,HTTP Request-0,301,Moved Permanently,HomePAge 1-13,text,true,,392,179,19,19,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1375,0,0
+1658568246616,1104,HTTP Request-1,200,OK,HomePAge 1-13,text,true,,9799,179,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1104,0,0
+1658568245422,2713,HTTP Request,200,OK,HomePAge 1-14,text,true,,10191,358,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1227,0,0
+1658568245422,1227,HTTP Request-0,301,Moved Permanently,HomePAge 1-14,text,true,,392,179,19,19,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1227,0,0
+1658568246649,1486,HTTP Request-1,200,OK,HomePAge 1-14,text,true,,9799,179,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1486,0,0
+1658568241310,7330,Homepage,200,OK,HomePAge 1-1,text,true,,367206,236,19,19,https://www.flipkart.com/,979,0,0
+1658568241310,979,Homepage-0,301,Moved Permanently,HomePAge 1-1,text,true,,347,118,19,19,http://www.flipkart.com/,979,0,0
+1658568242289,6351,Homepage-1,200,OK,HomePAge 1-1,text,true,,366859,118,19,19,https://www.flipkart.com/,1704,0,0
+1658568240236,8468,Homepage,200,OK,HomePAge 1-15,text,true,,364366,236,19,19,https://www.flipkart.com/,701,0,0
+1658568240236,701,Homepage-0,301,Moved Permanently,HomePAge 1-15,text,true,,347,118,19,19,http://www.flipkart.com/,701,0,0
+1658568240937,7767,Homepage-1,200,OK,HomePAge 1-15,text,true,,364019,118,19,19,https://www.flipkart.com/,1727,0,0
+1658568240469,8311,Homepage,200,OK,HomePAge 1-12,text,true,,356409,236,19,19,https://www.flipkart.com/,861,0,0
+1658568240469,861,Homepage-0,301,Moved Permanently,HomePAge 1-12,text,true,,347,118,19,19,http://www.flipkart.com/,861,0,0
+1658568241329,7451,Homepage-1,200,OK,HomePAge 1-12,text,true,,356062,118,19,19,https://www.flipkart.com/,1704,0,0
+1658568246461,2875,HTTP Request,200,OK,HomePAge 1-8,text,true,,10191,358,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1168,0,0
+1658568246461,1168,HTTP Request-0,301,Moved Permanently,HomePAge 1-8,text,true,,392,179,19,19,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1168,0,0
+1658568247629,1707,HTTP Request-1,200,OK,HomePAge 1-8,text,true,,9799,179,19,19,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1706,0,0
+1658568246575,2967,HTTP Request,200,OK,HomePAge 1-4,text,true,,10191,358,18,18,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1134,0,0
+1658568246575,1134,HTTP Request-0,301,Moved Permanently,HomePAge 1-4,text,true,,392,179,18,18,http://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1134,0,0
+1658568247709,1833,HTTP Request-1,200,OK,HomePAge 1-4,text,true,,9799,179,18,18,https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect,1833,0,0
+1658568240829,9355,Homepage,200,OK,HomePAge 1-17,text,true,,361862,236,18,18,https://www.flipkart.com/,1212,0,0
+1658568242162,8022,Homepage,200,OK,HomePAge 1-20,text,true,,367019,236,18,18,https://www.flipkart.com/,1019,0,0
+1658568240829,1212,Homepage-0,301,Moved Permanently,HomePAge 1-17,text,true,,347,118,18,18,http://www.flipkart.com/,1212,0,0
+1658568242162,1019,Homepage-0,301,Moved Permanently,HomePAge 1-20,text,true,,347,118,18,18,http://www.flipkart.com/,1019,0,0
+1658568242040,8144,Homepage-1,200,OK,HomePAge 1-17,text,true,,361515,118,18,18,https://www.flipkart.com/,1569,0,0
+1658568243182,7002,Homepage-1,200,OK,HomePAge 1-20,text,true,,366672,118,18,18,https://www.flipkart.com/,1559,0,0
