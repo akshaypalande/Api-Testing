@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="39" passed="39" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T16:03:34 IST" name="Default suite" finished-at="2022-08-22T16:04:01 IST" duration-ms="26906">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T16:03:34 IST" name="Default test" finished-at="2022-08-22T16:04:01 IST" duration-ms="26906">
+      <class name="api.RestAssured_Api_Automation">
+        <test-method is-config="true" signature="Get_Token()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:34 IST" name="Get_Token" finished-at="2022-08-22T16:03:34 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Token -->
+        <test-method signature="albums_Get_Album()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:34 IST" name="albums_Get_Album" finished-at="2022-08-22T16:03:38 IST" duration-ms="4050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- albums_Get_Album -->
+        <test-method signature="albums_Get_Album_Tracks()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:38 IST" name="albums_Get_Album_Tracks" finished-at="2022-08-22T16:03:38 IST" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- albums_Get_Album_Tracks -->
+        <test-method signature="albums_Get_Several_Albums()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:38 IST" name="albums_Get_Several_Albums" finished-at="2022-08-22T16:03:39 IST" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- albums_Get_Several_Albums -->
+        <test-method signature="artists_Get_Artist()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:39 IST" name="artists_Get_Artist" finished-at="2022-08-22T16:03:40 IST" duration-ms="479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- artists_Get_Artist -->
+        <test-method signature="artists_Get_Artists_Albums()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:40 IST" name="artists_Get_Artists_Albums" finished-at="2022-08-22T16:03:40 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- artists_Get_Artists_Albums -->
+        <test-method signature="artists_Get_Artists_Related_Artists()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:40 IST" name="artists_Get_Artists_Related_Artists" finished-at="2022-08-22T16:03:41 IST" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- artists_Get_Artists_Related_Artists -->
+        <test-method signature="artists_Get_Several_Artists()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:41 IST" name="artists_Get_Several_Artists" finished-at="2022-08-22T16:03:41 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- artists_Get_Several_Artists -->
+        <test-method signature="browse_Get_Available_Genre_Seeds()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:41 IST" name="browse_Get_Available_Genre_Seeds" finished-at="2022-08-22T16:03:42 IST" duration-ms="555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse_Get_Available_Genre_Seeds -->
+        <test-method signature="browse_Get_Featured_Playlists()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:42 IST" name="browse_Get_Featured_Playlists" finished-at="2022-08-22T16:03:42 IST" duration-ms="522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse_Get_Featured_Playlists -->
+        <test-method signature="browse_Get_New_Releases()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:42 IST" name="browse_Get_New_Releases" finished-at="2022-08-22T16:03:43 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse_Get_New_Releases -->
+        <test-method signature="browse_Get_Recommendations()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:43 IST" name="browse_Get_Recommendations" finished-at="2022-08-22T16:03:44 IST" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse_Get_Recommendations -->
+        <test-method signature="browse_Get_Several_Browse_Categories()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:44 IST" name="browse_Get_Several_Browse_Categories" finished-at="2022-08-22T16:03:44 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse_Get_Several_Browse_Categories -->
+        <test-method signature="episode_Get_Episode()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:44 IST" name="episode_Get_Episode" finished-at="2022-08-22T16:03:45 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- episode_Get_Episode -->
+        <test-method signature="episodes_Get_Several_Episode()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:45 IST" name="episodes_Get_Several_Episode" finished-at="2022-08-22T16:03:45 IST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- episodes_Get_Several_Episode -->
+        <test-method signature="follow_Follows_Artists_or_Users()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:45 IST" name="follow_Follows_Artists_or_Users" finished-at="2022-08-22T16:03:46 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- follow_Follows_Artists_or_Users -->
+        <test-method signature="get_Categorys_Playlists()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:46 IST" name="get_Categorys_Playlists" finished-at="2022-08-22T16:03:46 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Categorys_Playlists -->
+        <test-method signature="get_Single_Browse_Category()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:46 IST" name="get_Single_Browse_Category" finished-at="2022-08-22T16:03:47 IST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Single_Browse_Category -->
+        <test-method signature="markets_Get_Available_Markets()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:47 IST" name="markets_Get_Available_Markets" finished-at="2022-08-22T16:03:47 IST" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- markets_Get_Available_Markets -->
+        <test-method signature="shows_Get_Several_Shows()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:47 IST" name="shows_Get_Several_Shows" finished-at="2022-08-22T16:03:48 IST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shows_Get_Several_Shows -->
+        <test-method signature="shows_Get_Show()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:48 IST" name="shows_Get_Show" finished-at="2022-08-22T16:03:48 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shows_Get_Show -->
+        <test-method signature="shows_Get_Show_Episodes()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:48 IST" name="shows_Get_Show_Episodes" finished-at="2022-08-22T16:03:49 IST" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shows_Get_Show_Episodes -->
+        <test-method signature="tracks_Get_Several_Tracks()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:49 IST" name="tracks_Get_Several_Tracks" finished-at="2022-08-22T16:03:49 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tracks_Get_Several_Tracks -->
+        <test-method signature="tracks_Get_Track()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:49 IST" name="tracks_Get_Track" finished-at="2022-08-22T16:03:50 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tracks_Get_Track -->
+        <test-method signature="tracks_Get_Tracks_Audio_Analysis()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:50 IST" name="tracks_Get_Tracks_Audio_Analysis" finished-at="2022-08-22T16:03:51 IST" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tracks_Get_Tracks_Audio_Analysis -->
+        <test-method signature="tracks_Get_Tracks_Audio_Features()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:51 IST" name="tracks_Get_Tracks_Audio_Features" finished-at="2022-08-22T16:03:51 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tracks_Get_Tracks_Audio_Features -->
+        <test-method signature="tracks_Get_Trackss_Audio_Features()[pri:0, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:51 IST" name="tracks_Get_Trackss_Audio_Features" finished-at="2022-08-22T16:03:52 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tracks_Get_Trackss_Audio_Features -->
+        <test-method signature="get_Current_UserProfile()[pri:1, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:52 IST" name="get_Current_UserProfile" finished-at="2022-08-22T16:03:53 IST" duration-ms="1516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Current_UserProfile -->
+        <test-method signature="get_UserProfile()[pri:2, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:53 IST" name="get_UserProfile" finished-at="2022-08-22T16:03:54 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_UserProfile -->
+        <test-method signature="search_for_Item()[pri:3, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:54 IST" name="search_for_Item" finished-at="2022-08-22T16:03:55 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_for_Item -->
+        <test-method signature="playlist_Creation()[pri:4, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:55 IST" name="playlist_Creation" finished-at="2022-08-22T16:03:55 IST" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_Creation -->
+        <test-method signature="playlist_NewAdd_Item()[pri:5, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:55 IST" name="playlist_NewAdd_Item" finished-at="2022-08-22T16:03:56 IST" duration-ms="693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_NewAdd_Item -->
+        <test-method signature="playlist_Get_Playlist()[pri:6, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:56 IST" name="playlist_Get_Playlist" finished-at="2022-08-22T16:03:57 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_Get_Playlist -->
+        <test-method signature="playlist_Get_CurrentUser_Playlist()[pri:7, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:57 IST" name="playlist_Get_CurrentUser_Playlist" finished-at="2022-08-22T16:03:57 IST" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_Get_CurrentUser_Playlist -->
+        <test-method signature="playlist_Get_Cover_Image()[pri:8, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:57 IST" name="playlist_Get_Cover_Image" finished-at="2022-08-22T16:03:58 IST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_Get_Cover_Image -->
+        <test-method signature="playlist_Get_Playlist_Item()[pri:9, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:58 IST" name="playlist_Get_Playlist_Item" finished-at="2022-08-22T16:03:58 IST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_Get_Playlist_Item -->
+        <test-method signature="playlist_Get_User_Playlist()[pri:10, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:58 IST" name="playlist_Get_User_Playlist" finished-at="2022-08-22T16:03:59 IST" duration-ms="565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_Get_User_Playlist -->
+        <test-method signature="playlist_Update_Item()[pri:11, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:59 IST" name="playlist_Update_Item" finished-at="2022-08-22T16:03:59 IST" duration-ms="537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_Update_Item -->
+        <test-method signature="playlist_Update_Playlist_Detail()[pri:12, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:03:59 IST" name="playlist_Update_Playlist_Detail" finished-at="2022-08-22T16:04:00 IST" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_Update_Playlist_Detail -->
+        <test-method signature="playlist_Delete_Item()[pri:13, instance:api.RestAssured_Api_Automation@776b83cc]" started-at="2022-08-22T16:04:00 IST" name="playlist_Delete_Item" finished-at="2022-08-22T16:04:01 IST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playlist_Delete_Item -->
+      </class> <!-- api.RestAssured_Api_Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

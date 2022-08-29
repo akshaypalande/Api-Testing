@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="api.RestAssured_Api_Automation">
+        <methods>
+          <include name="get_UserProfile"/>
+          <include name="get_Categorys_Playlists"/>
+          <include name="tracks_Get_Trackss_Audio_Features"/>
+          <include name="shows_Get_Show_Episodes"/>
+          <include name="albums_Get_Several_Albums"/>
+          <include name="playlist_Delete_Item"/>
+          <include name="playlist_Get_CurrentUser_Playlist"/>
+          <include name="shows_Get_Several_Shows"/>
+          <include name="artists_Get_Several_Artists"/>
+          <include name="browse_Get_Several_Browse_Categories"/>
+          <include name="playlist_NewAdd_Item"/>
+          <include name="artists_Get_Artist"/>
+          <include name="playlist_Update_Playlist_Detail"/>
+          <include name="episode_Get_Episode"/>
+          <include name="browse_Get_Featured_Playlists"/>
+          <include name="follow_Follows_Artists_or_Users"/>
+          <include name="playlist_Get_Playlist"/>
+          <include name="playlist_Get_User_Playlist"/>
+          <include name="Get_Token"/>
+          <include name="browse_Get_Recommendations"/>
+          <include name="tracks_Get_Tracks_Audio_Features"/>
+          <include name="playlist_Update_Item"/>
+          <include name="artists_Get_Artists_Albums"/>
+          <include name="shows_Get_Show"/>
+          <include name="tracks_Get_Track"/>
+          <include name="get_Current_UserProfile"/>
+          <include name="playlist_Creation"/>
+          <include name="artists_Get_Artists_Related_Artists"/>
+          <include name="albums_Get_Album"/>
+          <include name="albums_Get_Album_Tracks"/>
+          <include name="get_Single_Browse_Category"/>
+          <include name="browse_Get_Available_Genre_Seeds"/>
+          <include name="episodes_Get_Several_Episode"/>
+          <include name="tracks_Get_Several_Tracks"/>
+          <include name="browse_Get_New_Releases"/>
+          <include name="playlist_Get_Cover_Image"/>
+          <include name="markets_Get_Available_Markets"/>
+          <include name="playlist_Get_Playlist_Item"/>
+          <include name="tracks_Get_Tracks_Audio_Analysis"/>
+        </methods>
+      </class> <!-- api.RestAssured_Api_Automation -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

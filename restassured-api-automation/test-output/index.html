@@ -1,0 +1,996 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Default_suite" class="navigator-link">
+              <span class="suite-name border-passed">Default suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Default_suite" class="navigator-link ">
+                    <span>C:\Windows\Temp\testng-eclipse-45601022\testng-customsuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Default_suite" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Default_suite" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Default_suite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Default_suite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Default_suite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Default_suite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">39 methods,   39 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Default_suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="albums_Get_Album">albums_Get_Album</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="albums_Get_Album_Tracks">albums_Get_Album_Tracks</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="albums_Get_Several_Albums">albums_Get_Several_Albums</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="artists_Get_Artist">artists_Get_Artist</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="artists_Get_Artists_Albums">artists_Get_Artists_Albums</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="artists_Get_Artists_Related_Artists">artists_Get_Artists_Related_Artists</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="artists_Get_Several_Artists">artists_Get_Several_Artists</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="browse_Get_Available_Genre_Seeds">browse_Get_Available_Genre_Seeds</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="browse_Get_Featured_Playlists">browse_Get_Featured_Playlists</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="browse_Get_New_Releases">browse_Get_New_Releases</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="browse_Get_Recommendations">browse_Get_Recommendations</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="browse_Get_Several_Browse_Categories">browse_Get_Several_Browse_Categories</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="episode_Get_Episode">episode_Get_Episode</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="episodes_Get_Several_Episode">episodes_Get_Several_Episode</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="follow_Follows_Artists_or_Users">follow_Follows_Artists_or_Users</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="get_Categorys_Playlists">get_Categorys_Playlists</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="get_Current_UserProfile">get_Current_UserProfile</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="get_Single_Browse_Category">get_Single_Browse_Category</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="get_UserProfile">get_UserProfile</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="markets_Get_Available_Markets">markets_Get_Available_Markets</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_Creation">playlist_Creation</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_Delete_Item">playlist_Delete_Item</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_Get_Cover_Image">playlist_Get_Cover_Image</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_Get_CurrentUser_Playlist">playlist_Get_CurrentUser_Playlist</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_Get_Playlist">playlist_Get_Playlist</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_Get_Playlist_Item">playlist_Get_Playlist_Item</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_Get_User_Playlist">playlist_Get_User_Playlist</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_NewAdd_Item">playlist_NewAdd_Item</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_Update_Item">playlist_Update_Item</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="playlist_Update_Playlist_Detail">playlist_Update_Playlist_Detail</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="search_for_Item">search_for_Item</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="shows_Get_Several_Shows">shows_Get_Several_Shows</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="shows_Get_Show">shows_Get_Show</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="shows_Get_Show_Episodes">shows_Get_Show_Episodes</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="tracks_Get_Several_Tracks">tracks_Get_Several_Tracks</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="tracks_Get_Track">tracks_Get_Track</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="tracks_Get_Tracks_Audio_Analysis">tracks_Get_Tracks_Audio_Analysis</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="tracks_Get_Tracks_Audio_Features">tracks_Get_Tracks_Audio_Features</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="api.RestAssured_Api_Automation" class="method navigator-link" hash-for-method="tracks_Get_Trackss_Audio_Features">tracks_Get_Trackss_Audio_Features</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Default_suite" class="panel Default_suite">
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">api.RestAssured_Api_Automation</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="albums_Get_Album">
+                  </a> <!-- albums_Get_Album -->
+                  <span class="method-name">albums_Get_Album</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="albums_Get_Album_Tracks">
+                  </a> <!-- albums_Get_Album_Tracks -->
+                  <span class="method-name">albums_Get_Album_Tracks</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="albums_Get_Several_Albums">
+                  </a> <!-- albums_Get_Several_Albums -->
+                  <span class="method-name">albums_Get_Several_Albums</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="artists_Get_Artist">
+                  </a> <!-- artists_Get_Artist -->
+                  <span class="method-name">artists_Get_Artist</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="artists_Get_Artists_Albums">
+                  </a> <!-- artists_Get_Artists_Albums -->
+                  <span class="method-name">artists_Get_Artists_Albums</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="artists_Get_Artists_Related_Artists">
+                  </a> <!-- artists_Get_Artists_Related_Artists -->
+                  <span class="method-name">artists_Get_Artists_Related_Artists</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="artists_Get_Several_Artists">
+                  </a> <!-- artists_Get_Several_Artists -->
+                  <span class="method-name">artists_Get_Several_Artists</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="browse_Get_Available_Genre_Seeds">
+                  </a> <!-- browse_Get_Available_Genre_Seeds -->
+                  <span class="method-name">browse_Get_Available_Genre_Seeds</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="browse_Get_Featured_Playlists">
+                  </a> <!-- browse_Get_Featured_Playlists -->
+                  <span class="method-name">browse_Get_Featured_Playlists</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="browse_Get_New_Releases">
+                  </a> <!-- browse_Get_New_Releases -->
+                  <span class="method-name">browse_Get_New_Releases</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="browse_Get_Recommendations">
+                  </a> <!-- browse_Get_Recommendations -->
+                  <span class="method-name">browse_Get_Recommendations</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="browse_Get_Several_Browse_Categories">
+                  </a> <!-- browse_Get_Several_Browse_Categories -->
+                  <span class="method-name">browse_Get_Several_Browse_Categories</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="episode_Get_Episode">
+                  </a> <!-- episode_Get_Episode -->
+                  <span class="method-name">episode_Get_Episode</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="episodes_Get_Several_Episode">
+                  </a> <!-- episodes_Get_Several_Episode -->
+                  <span class="method-name">episodes_Get_Several_Episode</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="follow_Follows_Artists_or_Users">
+                  </a> <!-- follow_Follows_Artists_or_Users -->
+                  <span class="method-name">follow_Follows_Artists_or_Users</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="get_Categorys_Playlists">
+                  </a> <!-- get_Categorys_Playlists -->
+                  <span class="method-name">get_Categorys_Playlists</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="get_Current_UserProfile">
+                  </a> <!-- get_Current_UserProfile -->
+                  <span class="method-name">get_Current_UserProfile</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="get_Single_Browse_Category">
+                  </a> <!-- get_Single_Browse_Category -->
+                  <span class="method-name">get_Single_Browse_Category</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="get_UserProfile">
+                  </a> <!-- get_UserProfile -->
+                  <span class="method-name">get_UserProfile</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="markets_Get_Available_Markets">
+                  </a> <!-- markets_Get_Available_Markets -->
+                  <span class="method-name">markets_Get_Available_Markets</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_Creation">
+                  </a> <!-- playlist_Creation -->
+                  <span class="method-name">playlist_Creation</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_Delete_Item">
+                  </a> <!-- playlist_Delete_Item -->
+                  <span class="method-name">playlist_Delete_Item</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_Get_Cover_Image">
+                  </a> <!-- playlist_Get_Cover_Image -->
+                  <span class="method-name">playlist_Get_Cover_Image</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_Get_CurrentUser_Playlist">
+                  </a> <!-- playlist_Get_CurrentUser_Playlist -->
+                  <span class="method-name">playlist_Get_CurrentUser_Playlist</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_Get_Playlist">
+                  </a> <!-- playlist_Get_Playlist -->
+                  <span class="method-name">playlist_Get_Playlist</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_Get_Playlist_Item">
+                  </a> <!-- playlist_Get_Playlist_Item -->
+                  <span class="method-name">playlist_Get_Playlist_Item</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_Get_User_Playlist">
+                  </a> <!-- playlist_Get_User_Playlist -->
+                  <span class="method-name">playlist_Get_User_Playlist</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_NewAdd_Item">
+                  </a> <!-- playlist_NewAdd_Item -->
+                  <span class="method-name">playlist_NewAdd_Item</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_Update_Item">
+                  </a> <!-- playlist_Update_Item -->
+                  <span class="method-name">playlist_Update_Item</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="playlist_Update_Playlist_Detail">
+                  </a> <!-- playlist_Update_Playlist_Detail -->
+                  <span class="method-name">playlist_Update_Playlist_Detail</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="search_for_Item">
+                  </a> <!-- search_for_Item -->
+                  <span class="method-name">search_for_Item</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="shows_Get_Several_Shows">
+                  </a> <!-- shows_Get_Several_Shows -->
+                  <span class="method-name">shows_Get_Several_Shows</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="shows_Get_Show">
+                  </a> <!-- shows_Get_Show -->
+                  <span class="method-name">shows_Get_Show</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="shows_Get_Show_Episodes">
+                  </a> <!-- shows_Get_Show_Episodes -->
+                  <span class="method-name">shows_Get_Show_Episodes</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tracks_Get_Several_Tracks">
+                  </a> <!-- tracks_Get_Several_Tracks -->
+                  <span class="method-name">tracks_Get_Several_Tracks</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tracks_Get_Track">
+                  </a> <!-- tracks_Get_Track -->
+                  <span class="method-name">tracks_Get_Track</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tracks_Get_Tracks_Audio_Analysis">
+                  </a> <!-- tracks_Get_Tracks_Audio_Analysis -->
+                  <span class="method-name">tracks_Get_Tracks_Audio_Analysis</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tracks_Get_Tracks_Audio_Features">
+                  </a> <!-- tracks_Get_Tracks_Audio_Features -->
+                  <span class="method-name">tracks_Get_Tracks_Audio_Features</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tracks_Get_Trackss_Audio_Features">
+                  </a> <!-- tracks_Get_Trackss_Audio_Features -->
+                  <span class="method-name">tracks_Get_Trackss_Audio_Features</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-passed -->
+        </div> <!-- panel Default_suite -->
+        <div panel-name="test-xml-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Windows\Temp\testng-eclipse-45601022\testng-customsuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Default suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Default test&quot; verbose=&quot;2&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;api.RestAssured_Api_Automation&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Default test --&gt;
+&lt;/suite&gt; &lt;!-- Default suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Default test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Default_suite');
+function tableData_Default_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(39);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'albums_Get_Album')
+data.setCell(0, 2, 'api.RestAssured_Api_Automation')
+data.setCell(0, 3, 4050);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'get_Current_UserProfile')
+data.setCell(1, 2, 'api.RestAssured_Api_Automation')
+data.setCell(1, 3, 1516);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'tracks_Get_Tracks_Audio_Analysis')
+data.setCell(2, 2, 'api.RestAssured_Api_Automation')
+data.setCell(2, 3, 1245);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'browse_Get_Recommendations')
+data.setCell(3, 2, 'api.RestAssured_Api_Automation')
+data.setCell(3, 3, 921);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'search_for_Item')
+data.setCell(4, 2, 'api.RestAssured_Api_Automation')
+data.setCell(4, 3, 877);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'browse_Get_New_Releases')
+data.setCell(5, 2, 'api.RestAssured_Api_Automation')
+data.setCell(5, 3, 817);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'albums_Get_Several_Albums')
+data.setCell(6, 2, 'api.RestAssured_Api_Automation')
+data.setCell(6, 3, 705);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'playlist_Get_Playlist')
+data.setCell(7, 2, 'api.RestAssured_Api_Automation')
+data.setCell(7, 3, 699);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'playlist_NewAdd_Item')
+data.setCell(8, 2, 'api.RestAssured_Api_Automation')
+data.setCell(8, 3, 693);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'playlist_Creation')
+data.setCell(9, 2, 'api.RestAssured_Api_Automation')
+data.setCell(9, 3, 631);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'playlist_Delete_Item')
+data.setCell(10, 2, 'api.RestAssured_Api_Automation')
+data.setCell(10, 3, 625);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'playlist_Get_Playlist_Item')
+data.setCell(11, 2, 'api.RestAssured_Api_Automation')
+data.setCell(11, 3, 584);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'playlist_Get_Cover_Image')
+data.setCell(12, 2, 'api.RestAssured_Api_Automation')
+data.setCell(12, 3, 584);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'artists_Get_Artists_Related_Artists')
+data.setCell(13, 2, 'api.RestAssured_Api_Automation')
+data.setCell(13, 3, 574);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'playlist_Get_User_Playlist')
+data.setCell(14, 2, 'api.RestAssured_Api_Automation')
+data.setCell(14, 3, 565);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'playlist_Update_Playlist_Detail')
+data.setCell(15, 2, 'api.RestAssured_Api_Automation')
+data.setCell(15, 3, 559);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'browse_Get_Available_Genre_Seeds')
+data.setCell(16, 2, 'api.RestAssured_Api_Automation')
+data.setCell(16, 3, 555);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'get_Categorys_Playlists')
+data.setCell(17, 2, 'api.RestAssured_Api_Automation')
+data.setCell(17, 3, 544);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'playlist_Update_Item')
+data.setCell(18, 2, 'api.RestAssured_Api_Automation')
+data.setCell(18, 3, 537);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'browse_Get_Featured_Playlists')
+data.setCell(19, 2, 'api.RestAssured_Api_Automation')
+data.setCell(19, 3, 522);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'albums_Get_Album_Tracks')
+data.setCell(20, 2, 'api.RestAssured_Api_Automation')
+data.setCell(20, 3, 514);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'playlist_Get_CurrentUser_Playlist')
+data.setCell(21, 2, 'api.RestAssured_Api_Automation')
+data.setCell(21, 3, 508);
+data.setCell(22, 0, 22)
+data.setCell(22, 1, 'shows_Get_Show_Episodes')
+data.setCell(22, 2, 'api.RestAssured_Api_Automation')
+data.setCell(22, 3, 507);
+data.setCell(23, 0, 23)
+data.setCell(23, 1, 'artists_Get_Artists_Albums')
+data.setCell(23, 2, 'api.RestAssured_Api_Automation')
+data.setCell(23, 3, 496);
+data.setCell(24, 0, 24)
+data.setCell(24, 1, 'shows_Get_Show')
+data.setCell(24, 2, 'api.RestAssured_Api_Automation')
+data.setCell(24, 3, 494);
+data.setCell(25, 0, 25)
+data.setCell(25, 1, 'browse_Get_Several_Browse_Categories')
+data.setCell(25, 2, 'api.RestAssured_Api_Automation')
+data.setCell(25, 3, 486);
+data.setCell(26, 0, 26)
+data.setCell(26, 1, 'episodes_Get_Several_Episode')
+data.setCell(26, 2, 'api.RestAssured_Api_Automation')
+data.setCell(26, 3, 482);
+data.setCell(27, 0, 27)
+data.setCell(27, 1, 'artists_Get_Artist')
+data.setCell(27, 2, 'api.RestAssured_Api_Automation')
+data.setCell(27, 3, 479);
+data.setCell(28, 0, 28)
+data.setCell(28, 1, 'get_UserProfile')
+data.setCell(28, 2, 'api.RestAssured_Api_Automation')
+data.setCell(28, 3, 469);
+data.setCell(29, 0, 29)
+data.setCell(29, 1, 'tracks_Get_Tracks_Audio_Features')
+data.setCell(29, 2, 'api.RestAssured_Api_Automation')
+data.setCell(29, 3, 465);
+data.setCell(30, 0, 30)
+data.setCell(30, 1, 'tracks_Get_Track')
+data.setCell(30, 2, 'api.RestAssured_Api_Automation')
+data.setCell(30, 3, 455);
+data.setCell(31, 0, 31)
+data.setCell(31, 1, 'artists_Get_Several_Artists')
+data.setCell(31, 2, 'api.RestAssured_Api_Automation')
+data.setCell(31, 3, 455);
+data.setCell(32, 0, 32)
+data.setCell(32, 1, 'tracks_Get_Several_Tracks')
+data.setCell(32, 2, 'api.RestAssured_Api_Automation')
+data.setCell(32, 3, 453);
+data.setCell(33, 0, 33)
+data.setCell(33, 1, 'tracks_Get_Trackss_Audio_Features')
+data.setCell(33, 2, 'api.RestAssured_Api_Automation')
+data.setCell(33, 3, 453);
+data.setCell(34, 0, 34)
+data.setCell(34, 1, 'markets_Get_Available_Markets')
+data.setCell(34, 2, 'api.RestAssured_Api_Automation')
+data.setCell(34, 3, 445);
+data.setCell(35, 0, 35)
+data.setCell(35, 1, 'get_Single_Browse_Category')
+data.setCell(35, 2, 'api.RestAssured_Api_Automation')
+data.setCell(35, 3, 443);
+data.setCell(36, 0, 36)
+data.setCell(36, 1, 'episode_Get_Episode')
+data.setCell(36, 2, 'api.RestAssured_Api_Automation')
+data.setCell(36, 3, 438);
+data.setCell(37, 0, 37)
+data.setCell(37, 1, 'follow_Follows_Artists_or_Users')
+data.setCell(37, 2, 'api.RestAssured_Api_Automation')
+data.setCell(37, 3, 432);
+data.setCell(38, 0, 38)
+data.setCell(38, 1, 'shows_Get_Several_Shows')
+data.setCell(38, 2, 'api.RestAssured_Api_Automation')
+data.setCell(38, 3, 426);
+window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 26 seconds</span>
+              <div id="times-div-Default_suite">
+              </div> <!-- times-div-Default_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">api.RestAssured_Api_Automation</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">Get_Token</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">albums_Get_Album</span>
+                <span class="method-start">61 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">albums_Get_Album_Tracks</span>
+                <span class="method-start">4125 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">albums_Get_Several_Albums</span>
+                <span class="method-start">4643 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">artists_Get_Artist</span>
+                <span class="method-start">5352 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">artists_Get_Artists_Albums</span>
+                <span class="method-start">5836 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">artists_Get_Artists_Related_Artists</span>
+                <span class="method-start">6337 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">artists_Get_Several_Artists</span>
+                <span class="method-start">6913 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">browse_Get_Available_Genre_Seeds</span>
+                <span class="method-start">7373 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">browse_Get_Featured_Playlists</span>
+                <span class="method-start">7931 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">browse_Get_New_Releases</span>
+                <span class="method-start">8459 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">browse_Get_Recommendations</span>
+                <span class="method-start">9278 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">browse_Get_Several_Browse_Categories</span>
+                <span class="method-start">10205 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">episode_Get_Episode</span>
+                <span class="method-start">10693 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">episodes_Get_Several_Episode</span>
+                <span class="method-start">11136 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">follow_Follows_Artists_or_Users</span>
+                <span class="method-start">11622 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">get_Categorys_Playlists</span>
+                <span class="method-start">12055 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">get_Single_Browse_Category</span>
+                <span class="method-start">12604 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">markets_Get_Available_Markets</span>
+                <span class="method-start">13051 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">shows_Get_Several_Shows</span>
+                <span class="method-start">13502 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">shows_Get_Show</span>
+                <span class="method-start">13932 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">shows_Get_Show_Episodes</span>
+                <span class="method-start">14430 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">tracks_Get_Several_Tracks</span>
+                <span class="method-start">14940 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">tracks_Get_Track</span>
+                <span class="method-start">15395 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">tracks_Get_Tracks_Audio_Analysis</span>
+                <span class="method-start">15856 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">tracks_Get_Tracks_Audio_Features</span>
+                <span class="method-start">17103 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">tracks_Get_Trackss_Audio_Features</span>
+                <span class="method-start">17569 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">get_Current_UserProfile</span>
+                <span class="method-start">18024 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">get_UserProfile</span>
+                <span class="method-start">19541 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">search_for_Item</span>
+                <span class="method-start">20014 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_Creation</span>
+                <span class="method-start">20894 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_NewAdd_Item</span>
+                <span class="method-start">21527 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_Get_Playlist</span>
+                <span class="method-start">22221 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_Get_CurrentUser_Playlist</span>
+                <span class="method-start">22922 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_Get_Cover_Image</span>
+                <span class="method-start">23432 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_Get_Playlist_Item</span>
+                <span class="method-start">24018 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_Get_User_Playlist</span>
+                <span class="method-start">24603 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_Update_Item</span>
+                <span class="method-start">25170 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_Update_Playlist_Detail</span>
+                <span class="method-start">25710 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">playlist_Delete_Item</span>
+                <span class="method-start">26271 ms</span>
+              </div> <!-- test-method -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

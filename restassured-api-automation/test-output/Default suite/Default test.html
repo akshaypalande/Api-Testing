@@ -1,0 +1,274 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>39/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Aug 22 16:03:34 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>26 seconds (26906 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.albums_Get_Album()'><b>albums_Get_Album</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>4</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.albums_Get_Album_Tracks()'><b>albums_Get_Album_Tracks</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.albums_Get_Several_Albums()'><b>albums_Get_Several_Albums</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.artists_Get_Artist()'><b>artists_Get_Artist</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.artists_Get_Artists_Albums()'><b>artists_Get_Artists_Albums</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.artists_Get_Artists_Related_Artists()'><b>artists_Get_Artists_Related_Artists</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.artists_Get_Several_Artists()'><b>artists_Get_Several_Artists</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.browse_Get_Available_Genre_Seeds()'><b>browse_Get_Available_Genre_Seeds</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.browse_Get_Featured_Playlists()'><b>browse_Get_Featured_Playlists</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.browse_Get_New_Releases()'><b>browse_Get_New_Releases</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.browse_Get_Recommendations()'><b>browse_Get_Recommendations</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.browse_Get_Several_Browse_Categories()'><b>browse_Get_Several_Browse_Categories</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.episode_Get_Episode()'><b>episode_Get_Episode</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.episodes_Get_Several_Episode()'><b>episodes_Get_Several_Episode</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.follow_Follows_Artists_or_Users()'><b>follow_Follows_Artists_or_Users</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.get_Categorys_Playlists()'><b>get_Categorys_Playlists</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.get_Current_UserProfile()'><b>get_Current_UserProfile</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>1</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.get_Single_Browse_Category()'><b>get_Single_Browse_Category</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.get_UserProfile()'><b>get_UserProfile</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.markets_Get_Available_Markets()'><b>markets_Get_Available_Markets</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_Creation()'><b>playlist_Creation</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_Delete_Item()'><b>playlist_Delete_Item</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_Get_Cover_Image()'><b>playlist_Get_Cover_Image</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_Get_CurrentUser_Playlist()'><b>playlist_Get_CurrentUser_Playlist</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_Get_Playlist()'><b>playlist_Get_Playlist</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_Get_Playlist_Item()'><b>playlist_Get_Playlist_Item</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_Get_User_Playlist()'><b>playlist_Get_User_Playlist</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_NewAdd_Item()'><b>playlist_NewAdd_Item</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_Update_Item()'><b>playlist_Update_Item</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.playlist_Update_Playlist_Detail()'><b>playlist_Update_Playlist_Detail</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.search_for_Item()'><b>search_for_Item</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.shows_Get_Several_Shows()'><b>shows_Get_Several_Shows</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.shows_Get_Show()'><b>shows_Get_Show</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.shows_Get_Show_Episodes()'><b>shows_Get_Show_Episodes</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.tracks_Get_Several_Tracks()'><b>tracks_Get_Several_Tracks</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.tracks_Get_Track()'><b>tracks_Get_Track</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.tracks_Get_Tracks_Audio_Analysis()'><b>tracks_Get_Tracks_Audio_Analysis</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>1</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.tracks_Get_Tracks_Audio_Features()'><b>tracks_Get_Tracks_Audio_Features</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+<tr>
+<td title='api.RestAssured_Api_Automation.tracks_Get_Trackss_Audio_Features()'><b>tracks_Get_Trackss_Audio_Features</b><br>Test class: api.RestAssured_Api_Automation</td>
+<td></td>
+<td>0</td>
+<td>api.RestAssured_Api_Automation@776b83cc</td></tr>
+</table><p>
+</body>
+</html>
